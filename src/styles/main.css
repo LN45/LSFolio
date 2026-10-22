@@ -1,7 +1,11 @@
 :root {
   --couleur-primaire: #5b4bdb;
   --couleur-fond: #f6f5fb;
+  --couleur-surface: #ffffff;
+  --couleur-bordure: #e3e1ef;
   --couleur-texte: #1f1d2b;
+  --couleur-texte-doux: #6b6880;
+  --rayon: 1rem;
 
   font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
   color: var(--couleur-texte);
@@ -12,7 +16,10 @@
   :root {
     --couleur-primaire: #9d92ff;
     --couleur-fond: #16151d;
+    --couleur-surface: #211f2b;
+    --couleur-bordure: #34313f;
     --couleur-texte: #ecebf3;
+    --couleur-texte-doux: #a5a2b8;
   }
 }
 
@@ -26,4 +33,88 @@ body {
   margin: 0;
   min-height: 100dvh;
   background: var(--couleur-fond);
+}
+
+a {
+  color: var(--couleur-primaire);
+}
+
+h1,
+h2 {
+  line-height: 1.2;
+}
+
+/* Carte cliquable commune (thèmes, signes) */
+.carte {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.9rem 1rem;
+  background: var(--couleur-surface);
+  border: 1px solid var(--couleur-bordure);
+  border-radius: var(--rayon);
+  color: inherit;
+  text-decoration: none;
+  transition: transform 0.1s, border-color 0.1s;
+}
+
+.carte:hover,
+.carte:focus-visible {
+  border-color: var(--couleur-primaire);
+  transform: translateY(-1px);
+}
+
+.grille {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));
+  gap: 0.6rem;
+}
+
+.texte-doux {
+  color: var(--couleur-texte-doux);
+}
+
+.bouton {
+  padding: 0.6rem 1rem;
+  font: inherit;
+  font-weight: 600;
+  color: var(--couleur-texte);
+  background: var(--couleur-surface);
+  border: 1px solid var(--couleur-bordure);
+  border-radius: var(--rayon);
+  cursor: pointer;
+}
+
+.bouton:hover:not(:disabled) {
+  border-color: var(--couleur-primaire);
+}
+
+.bouton:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.bouton.actif {
+  color: #fff;
+  background: var(--couleur-primaire);
+  border-color: var(--couleur-primaire);
+}
+
+/* Texte lu par les lecteurs d'écran mais invisible à l'écran */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.lien-retour {
+  display: inline-block;
+  margin-bottom: 0.5rem;
+  text-decoration: none;
 }

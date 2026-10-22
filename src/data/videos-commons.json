@@ -1,0 +1,4209 @@
+[
+  {
+    "id": "a-bientot",
+    "mot": "À bientôt",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/cb/LL-Q33302_%28fsl%29-Laura_Jauvert-%C3%80_bient%C3%B4t.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-%C3%80_bient%C3%B4t.webm"
+  },
+  {
+    "id": "a-genoux",
+    "mot": "À genoux",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/aa/LL-Q33302_%28fsl%29-Laura_Jauvert-%C3%80_genoux.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-%C3%80_genoux.webm"
+  },
+  {
+    "id": "a-peu-pres",
+    "mot": "À peu près",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/d6/LL-Q33302_%28fsl%29-Laura_Jauvert-%C3%80_peu_pr%C3%A8s.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-%C3%80_peu_pr%C3%A8s.webm"
+  },
+  {
+    "id": "a-tout-a-l-heure",
+    "mot": "À tout à l'heure",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/0/00/LL-Q33302_%28fsl%29-Laura_Jauvert-%C3%80_tout_%C3%A0_l%27heure.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-%C3%80_tout_%C3%A0_l%27heure.webm"
+  },
+  {
+    "id": "abandonner",
+    "mot": "Abandonner",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/ec/LL-Q33302_%28fsl%29-Laura_Jauvert-Abandonner.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Abandonner.webm"
+  },
+  {
+    "id": "abeille",
+    "mot": "Abeille",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/3d/LL-Q33302_%28fsl%29-Laura_Jauvert-Abeille.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Abeille.webm"
+  },
+  {
+    "id": "accompagner",
+    "mot": "Accompagner",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/bc/LL-Q33302_%28fsl%29-Laura_Jauvert-Accompagner.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Accompagner.webm"
+  },
+  {
+    "id": "accueil",
+    "mot": "Accueil",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/c4/LL-Q33302_%28fsl%29-Taliba31-accueil.webm",
+    "auteur": "Taliba31",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Taliba31-accueil.webm"
+  },
+  {
+    "id": "accueil-lieu",
+    "mot": "Accueil",
+    "note": "lieu",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/b1/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-accueil_%28lieu%29.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-accueil_(lieu).webm"
+  },
+  {
+    "id": "accueillir",
+    "mot": "Accueillir",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/93/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-accueillir.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-accueillir.webm"
+  },
+  {
+    "id": "achat",
+    "mot": "Achat",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/c6/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-achat.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-achat.webm"
+  },
+  {
+    "id": "acheter",
+    "mot": "Acheter",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/c7/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-acheter.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-acheter.webm"
+  },
+  {
+    "id": "acte-theatre",
+    "mot": "Acte",
+    "note": "théâtre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/fa/LL-Q33302_%28fsl%29-Taliba31-acte_%28th%C3%A9%C3%A2tre%29.webm",
+    "auteur": "Taliba31",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Taliba31-acte_(th%C3%A9%C3%A2tre).webm"
+  },
+  {
+    "id": "adolescent",
+    "mot": "Adolescent",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/79/LL-Q33302_%28fsl%29-Laura_Jauvert-Adolescent.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Adolescent.webm"
+  },
+  {
+    "id": "adorer",
+    "mot": "Adorer",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/e7/LL-Q33302_%28fsl%29-Laura_Jauvert-Adorer.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Adorer.webm"
+  },
+  {
+    "id": "adresse-email",
+    "mot": "Adresse email",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/cb/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-adresse_email.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-adresse_email.webm"
+  },
+  {
+    "id": "adresse-mail",
+    "mot": "Adresse mail",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/4/49/LL-Q33302_%28fsl%29-Taliba31-adresse_mail.webm",
+    "auteur": "Taliba31",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Taliba31-adresse_mail.webm"
+  },
+  {
+    "id": "aix",
+    "mot": "Aix",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/f9/LL-Q33302_%28fsl%29-Laura_Jauvert-Aix.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Aix.webm"
+  },
+  {
+    "id": "aller",
+    "mot": "Aller",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/aa/LL-Q33302_%28fsl%29-Laura_Jauvert-Aller.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Aller.webm"
+  },
+  {
+    "id": "aller-chercher",
+    "mot": "Aller chercher",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/d8/LL-Q33302_%28fsl%29-Laura_Jauvert-Aller_chercher.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Aller_chercher.webm"
+  },
+  {
+    "id": "amant",
+    "mot": "Amant",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/53/LL-Q33302_%28fsl%29-Laura_Jauvert-Amant.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Amant.webm"
+  },
+  {
+    "id": "amie",
+    "mot": "Ami·e",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/ad/LL-Q33302_%28fsl%29-Laura_Jauvert-Ami%C2%B7e.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ami%C2%B7e.webm"
+  },
+  {
+    "id": "amies",
+    "mot": "Ami·e·s",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/8b/LL-Q33302_%28fsl%29-Laura_Jauvert-Ami%C2%B7e%C2%B7s.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ami%C2%B7e%C2%B7s.webm"
+  },
+  {
+    "id": "amour",
+    "mot": "Amour",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/15/LL-Q33302_%28fsl%29-Laura_Jauvert-Amour.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Amour.webm"
+  },
+  {
+    "id": "animation",
+    "mot": "Animation",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/2/2e/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-animation.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-animation.webm"
+  },
+  {
+    "id": "animer",
+    "mot": "Animer",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/fe/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-animer.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-animer.webm"
+  },
+  {
+    "id": "anniversaire",
+    "mot": "Anniversaire",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/bd/LL-Q33302_%28fsl%29-Laura_Jauvert-Anniversaire.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Anniversaire.webm"
+  },
+  {
+    "id": "apercevoir",
+    "mot": "Apercevoir",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/cb/LL-Q33302_%28fsl%29-Laura_Jauvert-Apercevoir.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Apercevoir.webm"
+  },
+  {
+    "id": "appeler",
+    "mot": "Appeler",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/ec/LL-Q33302_%28fsl%29-Laura_Jauvert-Appeler.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Appeler.webm"
+  },
+  {
+    "id": "apporter",
+    "mot": "Apporter",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/b2/LL-Q33302_%28fsl%29-Laura_Jauvert-Apporter.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Apporter.webm"
+  },
+  {
+    "id": "apprendre",
+    "mot": "Apprendre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/e7/LL-Q33302_%28fsl%29-Laura_Jauvert-Apprendre.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Apprendre.webm"
+  },
+  {
+    "id": "approcher",
+    "mot": "Approcher",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/90/LL-Q33302_%28fsl%29-Laura_Jauvert-Approcher.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Approcher.webm"
+  },
+  {
+    "id": "apres",
+    "mot": "Après",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/57/LL-Q33302_%28fsl%29-Laura_Jauvert-Apr%C3%A8s.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Apr%C3%A8s.webm"
+  },
+  {
+    "id": "apres-midi",
+    "mot": "Après-midi",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/d8/LL-Q33302_%28fsl%29-Laura_Jauvert-Apr%C3%A8s-midi.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Apr%C3%A8s-midi.webm"
+  },
+  {
+    "id": "arbre",
+    "mot": "Arbre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/b7/LL-Q33302_%28fsl%29-Laura_Jauvert-Arbre.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Arbre.webm"
+  },
+  {
+    "id": "argente",
+    "mot": "Argenté",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/1e/LL-Q33302_%28fsl%29-Laura_Jauvert-Argent%C3%A9.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Argent%C3%A9.webm"
+  },
+  {
+    "id": "arreter",
+    "mot": "Arrêter",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/7f/LL-Q33302_%28fsl%29-Laura_Jauvert-Arr%C3%AAter.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Arr%C3%AAter.webm"
+  },
+  {
+    "id": "ascenseur",
+    "mot": "Ascenseur",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/55/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-ascenseur.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-ascenseur.webm"
+  },
+  {
+    "id": "atelier",
+    "mot": "Atelier",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/6a/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-atelier.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-atelier.webm"
+  },
+  {
+    "id": "attendre",
+    "mot": "Attendre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/84/LL-Q33302_%28fsl%29-Laura_Jauvert-Attendre.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Attendre.webm"
+  },
+  {
+    "id": "attention",
+    "mot": "Attention",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/c9/LL-Q33302_%28fsl%29-Laura_Jauvert-Attention.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Attention.webm"
+  },
+  {
+    "id": "au-bord-de",
+    "mot": "Au bord de…",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/bc/LL-Q33302_%28fsl%29-Laura_Jauvert-Au_bord_de%E2%80%A6.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Au_bord_de%E2%80%A6.webm"
+  },
+  {
+    "id": "au-revoir",
+    "mot": "Au revoir",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/b0/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-au_revoir.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-au_revoir.webm"
+  },
+  {
+    "id": "aubagne",
+    "mot": "Aubagne",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/bd/LL-Q33302_%28fsl%29-Laura_Jauvert-Aubagne.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Aubagne.webm"
+  },
+  {
+    "id": "aujourd-hui",
+    "mot": "Aujourd'hui",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/76/LL-Q33302_%28fsl%29-Laura_Jauvert-Aujourd%27hui.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Aujourd%27hui.webm"
+  },
+  {
+    "id": "autoroute",
+    "mot": "Autoroute",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/d9/LL-Q33302_%28fsl%29-Laura_Jauvert-Autoroute.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Autoroute.webm"
+  },
+  {
+    "id": "avant",
+    "mot": "Avant",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/58/LL-Q33302_%28fsl%29-Laura_Jauvert-Avant.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Avant.webm"
+  },
+  {
+    "id": "avec",
+    "mot": "Avec",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/e3/LL-Q33302_%28fsl%29-Laura_Jauvert-Avec.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Avec.webm"
+  },
+  {
+    "id": "avion",
+    "mot": "Avion",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/f0/LL-Q33302_%28fsl%29-Laura_Jauvert-Avion.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Avion.webm"
+  },
+  {
+    "id": "ballon",
+    "mot": "Ballon",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/9c/LL-Q33302_%28fsl%29-Laura_Jauvert-Ballon.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ballon.webm"
+  },
+  {
+    "id": "banane",
+    "mot": "Banane",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/4/44/LL-Q33302_%28fsl%29-Laura_Jauvert-Banane.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Banane.webm"
+  },
+  {
+    "id": "bande-dessinee",
+    "mot": "Bande dessinée",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/55/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-bande_dessin%C3%A9e.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-bande_dessin%C3%A9e.webm"
+  },
+  {
+    "id": "banque",
+    "mot": "Banque",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/5d/LL-Q33302_%28fsl%29-Laura_Jauvert-Banque.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Banque.webm"
+  },
+  {
+    "id": "bd",
+    "mot": "BD",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/0/0d/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-BD.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-BD.webm"
+  },
+  {
+    "id": "beaucoup",
+    "mot": "Beaucoup",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/1f/LL-Q33302_%28fsl%29-Laura_Jauvert-Beacoup.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Beacoup.webm"
+  },
+  {
+    "id": "bebe",
+    "mot": "Bébé",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/70/LL-Q33302_%28fsl%29-Laura_Jauvert-B%C3%A9b%C3%A9.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-B%C3%A9b%C3%A9.webm"
+  },
+  {
+    "id": "bibliobus",
+    "mot": "Bibliobus",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/c9/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-bibliobus.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-bibliobus.webm"
+  },
+  {
+    "id": "bibliotheque",
+    "mot": "Bibliothèque",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/c5/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-biblioth%C3%A8que.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-biblioth%C3%A8que.webm"
+  },
+  {
+    "id": "bien",
+    "mot": "Bien",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/30/LL-Q33302_%28fsl%29-Laura_Jauvert-Bien.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bien.webm"
+  },
+  {
+    "id": "bientot",
+    "mot": "Bientôt",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/e2/LL-Q33302_%28fsl%29-Laura_Jauvert-Bient%C3%B4t.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bient%C3%B4t.webm"
+  },
+  {
+    "id": "billard",
+    "mot": "Billard",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/90/LL-Q33302_%28fsl%29-Laura_Jauvert-Billard.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Billard.webm"
+  },
+  {
+    "id": "blanc",
+    "mot": "Blanc",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/2/2d/LL-Q33302_%28fsl%29-Laura_Jauvert-Blanc.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Blanc.webm"
+  },
+  {
+    "id": "bleu",
+    "mot": "Bleu",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/fe/LL-Q33302_%28fsl%29-Laura_Jauvert-Bleu.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bleu.webm"
+  },
+  {
+    "id": "bleu-marine",
+    "mot": "Bleu marine",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/ac/LL-Q33302_%28fsl%29-Laura_Jauvert-Bleu_marine.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bleu_marine.webm"
+  },
+  {
+    "id": "blond",
+    "mot": "Blond",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/83/LL-Q33302_%28fsl%29-Laura_Jauvert-Blond.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Blond.webm"
+  },
+  {
+    "id": "boeuf",
+    "mot": "Boeuf",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/78/LL-Q33302_%28fsl%29-Laura_Jauvert-Boeuf.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Boeuf.webm"
+  },
+  {
+    "id": "boire",
+    "mot": "Boire",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/81/LL-Q33302_%28fsl%29-Laura_Jauvert-Boire.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Boire.webm"
+  },
+  {
+    "id": "boiter",
+    "mot": "Boiter",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/78/LL-Q33302_%28fsl%29-Laura_Jauvert-Boiter.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Boiter.webm"
+  },
+  {
+    "id": "bon",
+    "mot": "Bon",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/d8/LL-Q33302_%28fsl%29-Laura_Jauvert-Bon.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bon.webm"
+  },
+  {
+    "id": "bon-appetit",
+    "mot": "Bon appétit",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/75/LL-Q33302_%28fsl%29-Laura_Jauvert-Bon_app%C3%A9tit.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bon_app%C3%A9tit.webm"
+  },
+  {
+    "id": "bonjour",
+    "mot": "Bonjour",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/0/0b/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-bonjour.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-bonjour.webm"
+  },
+  {
+    "id": "bonne-journee",
+    "mot": "Bonne journée",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/c2/LL-Q33302_%28fsl%29-Laura_Jauvert-Bonne_journ%C3%A9e.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bonne_journ%C3%A9e.webm"
+  },
+  {
+    "id": "bonne-soiree",
+    "mot": "Bonne soirée",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/ab/LL-Q33302_%28fsl%29-Laura_Jauvert-Bonne_soir%C3%A9e.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bonne_soir%C3%A9e.webm"
+  },
+  {
+    "id": "bonsoir",
+    "mot": "Bonsoir",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/0/00/LL-Q33302_%28fsl%29-Laura_Jauvert-Bonsoir.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bonsoir.webm"
+  },
+  {
+    "id": "bowling",
+    "mot": "Bowling",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/3c/LL-Q33302_%28fsl%29-Laura_Jauvert-Bowling.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bowling.webm"
+  },
+  {
+    "id": "bracelet",
+    "mot": "Bracelet",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/19/LL-Q33302_%28fsl%29-Laura_Jauvert-Bracelet.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bracelet.webm"
+  },
+  {
+    "id": "bretagne",
+    "mot": "Bretagne",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/11/LL-Q33302_%28fsl%29-Laura_Jauvert-Bretagne.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bretagne.webm"
+  },
+  {
+    "id": "bureau",
+    "mot": "Bureau",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/57/LL-Q33302_%28fsl%29-Laura_Jauvert-Bureau.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bureau.webm"
+  },
+  {
+    "id": "bus",
+    "mot": "Bus",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/cb/LL-Q33302_%28fsl%29-Laura_Jauvert-Bus.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bus.webm"
+  },
+  {
+    "id": "ca-va",
+    "mot": "Ça va",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/53/LL-Q33302_%28fsl%29-Laura_Jauvert-%C3%87a_va.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-%C3%87a_va.webm"
+  },
+  {
+    "id": "cafe",
+    "mot": "Café",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/0/0b/LL-Q33302_%28fsl%29-Laura_Jauvert-Caf%C3%A9.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Caf%C3%A9.webm"
+  },
+  {
+    "id": "camion",
+    "mot": "Camion",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/35/LL-Q33302_%28fsl%29-Laura_Jauvert-Camion.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Camion.webm"
+  },
+  {
+    "id": "campagne",
+    "mot": "Campagne",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/fa/LL-Q33302_%28fsl%29-Laura_Jauvert-Campagne.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Campagne.webm"
+  },
+  {
+    "id": "canape",
+    "mot": "Canapé",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/ea/LL-Q33302_%28fsl%29-Laura_Jauvert-Canap%C3%A9.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Canap%C3%A9.webm"
+  },
+  {
+    "id": "canard",
+    "mot": "Canard",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/18/LL-Q33302_%28fsl%29-Laura_Jauvert-Canard.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Canard.webm"
+  },
+  {
+    "id": "capter-des-mots",
+    "mot": "Capter des mots",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/4/40/LL-Q33302_%28fsl%29-Laura_Jauvert-Capter_des_mots.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Capter_des_mots.webm"
+  },
+  {
+    "id": "car",
+    "mot": "Car",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/6f/LL-Q33302_%28fsl%29-Laura_Jauvert-Car.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Car.webm"
+  },
+  {
+    "id": "carotte",
+    "mot": "Carotte",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/8d/LL-Q33302_%28fsl%29-Laura_Jauvert-Carotte.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Carotte.webm"
+  },
+  {
+    "id": "carte-de-bibliotheque",
+    "mot": "Carte de bibliothèque",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/8c/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-carte_de_biblioth%C3%A8que.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-carte_de_biblioth%C3%A8que.webm"
+  },
+  {
+    "id": "casser",
+    "mot": "Casser",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/ae/LL-Q33302_%28fsl%29-Laura_Jauvert-Casser.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Casser.webm"
+  },
+  {
+    "id": "cassette",
+    "mot": "Cassette",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/bc/LL-Q33302_%28fsl%29-Laura_Jauvert-Cassette.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Cassette.webm"
+  },
+  {
+    "id": "catalogue",
+    "mot": "Catalogue",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/5f/LL-Q33302_%28fsl%29-Taliba31-catalogue.webm",
+    "auteur": "Taliba31",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Taliba31-catalogue.webm"
+  },
+  {
+    "id": "catalogue-liste",
+    "mot": "Catalogue",
+    "note": "liste",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/36/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-catalogue_%28liste%29.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-catalogue_(liste).webm"
+  },
+  {
+    "id": "cd",
+    "mot": "CD",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/72/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-CD.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-CD.webm"
+  },
+  {
+    "id": "cdi",
+    "mot": "CDI",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/0/09/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-CDI.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-CDI.webm"
+  },
+  {
+    "id": "centre-ville",
+    "mot": "Centre ville",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/fa/LL-Q33302_%28fsl%29-Laura_Jauvert-Centre_ville.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Centre_ville.webm"
+  },
+  {
+    "id": "cerf",
+    "mot": "Cerf",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/b0/LL-Q33302_%28fsl%29-Taliba31-cerf.webm",
+    "auteur": "Taliba31",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Taliba31-cerf.webm"
+  },
+  {
+    "id": "certificat",
+    "mot": "Certificat",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/7f/LL-Q33302_%28fsl%29-Laura_Jauvert-Certificat.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Certificat.webm"
+  },
+  {
+    "id": "chaise",
+    "mot": "Chaise",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/70/LL-Q33302_%28fsl%29-Laura_Jauvert-Chaise.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Chaise.webm"
+  },
+  {
+    "id": "champignon",
+    "mot": "Champignon",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/2/20/LL-Q33302_%28fsl%29-Laura_Jauvert-Champignon.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Champignon.webm"
+  },
+  {
+    "id": "chance",
+    "mot": "Chance",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/9e/LL-Q33302_%28fsl%29-Laura_Jauvert-Chance.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Chance.webm"
+  },
+  {
+    "id": "chapeau",
+    "mot": "Chapeau",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/2/22/LL-Q33302_%28fsl%29-Laura_Jauvert-Chapeau.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Chapeau.webm"
+  },
+  {
+    "id": "chat",
+    "mot": "Chat",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/5e/LL-Q33302_%28fsl%29-Laura_Jauvert-Chat.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Chat.webm"
+  },
+  {
+    "id": "chatain",
+    "mot": "Châtain",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/a3/LL-Q33302_%28fsl%29-Laura_Jauvert-Ch%C3%A2tain.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ch%C3%A2tain.webm"
+  },
+  {
+    "id": "chaud",
+    "mot": "Chaud",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/63/LL-Q33302_%28fsl%29-Laura_Jauvert-Chaud.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Chaud.webm"
+  },
+  {
+    "id": "chemin",
+    "mot": "Chemin",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/c9/LL-Q33302_%28fsl%29-Laura_Jauvert-Chemin.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Chemin.webm"
+  },
+  {
+    "id": "chercher",
+    "mot": "Chercher",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/80/LL-Q33302_%28fsl%29-Laura_Jauvert-Chercher.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Chercher.webm"
+  },
+  {
+    "id": "chercher-les-ennuis",
+    "mot": "Chercher les ennuis",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/8e/LL-Q33302_%28fsl%29-Laura_Jauvert-Chercher_les_ennuis.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Chercher_les_ennuis.webm"
+  },
+  {
+    "id": "chien",
+    "mot": "Chien",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/1b/LL-Q33302_%28fsl%29-Laura_Jauvert-Chien.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Chien.webm"
+  },
+  {
+    "id": "chinois",
+    "mot": "Chinois",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/aa/LL-Q33302_%28fsl%29-Roy_Batty_82-chinois.webm",
+    "auteur": "Roy Batty 82",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Roy_Batty_82-chinois.webm"
+  },
+  {
+    "id": "chocolat",
+    "mot": "Chocolat",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/7e/LL-Q33302_%28fsl%29-Laura_Jauvert-Chocolat.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Chocolat.webm"
+  },
+  {
+    "id": "chocolatine-pain-au-chocolat",
+    "mot": "Chocolatine",
+    "note": "pain au chocolat",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/17/LL-Q33302_%28fsl%29-Laura_Jauvert-Chocolatine_%28pain_au_chocolat%29.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Chocolatine_(pain_au_chocolat).webm"
+  },
+  {
+    "id": "cinema",
+    "mot": "Cinéma",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/93/LL-Q33302_%28fsl%29-Laura_Jauvert-Cin%C3%A9ma.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Cin%C3%A9ma.webm"
+  },
+  {
+    "id": "cirque",
+    "mot": "Cirque",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/3c/LL-Q33302_%28fsl%29-Laura_Jauvert-Cirque.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Cirque.webm"
+  },
+  {
+    "id": "clair",
+    "mot": "Clair",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/7b/LL-Q33302_%28fsl%29-Laura_Jauvert-Clair.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Clair.webm"
+  },
+  {
+    "id": "clown",
+    "mot": "Clown",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/e9/LL-Q33302_%28fsl%29-Laura_Jauvert-Clown.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Clown.webm"
+  },
+  {
+    "id": "coca",
+    "mot": "Coca",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/d9/LL-Q33302_%28fsl%29-Laura_Jauvert-Coca.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Coca.webm"
+  },
+  {
+    "id": "collant-vetement",
+    "mot": "Collant",
+    "note": "vêtement",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/a1/LL-Q33302_%28fsl%29-Laura_Jauvert-Collant_%28v%C3%AAtement%29.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Collant_(v%C3%AAtement).webm"
+  },
+  {
+    "id": "college",
+    "mot": "Collège",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/7d/LL-Q33302_%28fsl%29-Laura_Jauvert-Coll%C3%A8ge.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Coll%C3%A8ge.webm"
+  },
+  {
+    "id": "combien",
+    "mot": "Combien",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/f3/LL-Q33302_%28fsl%29-Laura_Jauvert-Combien.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Combien.webm"
+  },
+  {
+    "id": "comedien",
+    "mot": "Comédien",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/19/LL-Q33302_%28fsl%29-Taliba31-com%C3%A9dien.webm",
+    "auteur": "Taliba31",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Taliba31-com%C3%A9dien.webm"
+  },
+  {
+    "id": "commande",
+    "mot": "Commande",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/82/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-commande.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-commande.webm"
+  },
+  {
+    "id": "commander",
+    "mot": "Commander",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/64/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-commander.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-commander.webm"
+  },
+  {
+    "id": "commencer",
+    "mot": "Commencer",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/52/LL-Q33302_%28fsl%29-Laura_Jauvert-Commencer.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Commencer.webm"
+  },
+  {
+    "id": "comment",
+    "mot": "Comment",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/a3/LL-Q33302_%28fsl%29-Laura_Jauvert-Comment.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Comment.webm"
+  },
+  {
+    "id": "communiquer",
+    "mot": "Communiquer",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/6a/LL-Q33302_%28fsl%29-Laura_Jauvert-Communiquer.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Communiquer.webm"
+  },
+  {
+    "id": "comprendre",
+    "mot": "Comprendre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/34/LL-Q33302_%28fsl%29-Laura_Jauvert-Comprendre.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Comprendre.webm"
+  },
+  {
+    "id": "compris",
+    "mot": "Compris",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/78/LL-Q33302_%28fsl%29-Laura_Jauvert-Compris.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Compris.webm"
+  },
+  {
+    "id": "concentrer",
+    "mot": "Concentrer",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/e0/LL-Q33302_%28fsl%29-Laura_Jauvert-Concentrer.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Concentrer.webm"
+  },
+  {
+    "id": "concombre",
+    "mot": "Concombre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/0/07/LL-Q33302_%28fsl%29-Laura_Jauvert-Concombre.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Concombre.webm"
+  },
+  {
+    "id": "concours",
+    "mot": "Concours",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/79/LL-Q33302_%28fsl%29-Laura_Jauvert-Concours.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Concours.webm"
+  },
+  {
+    "id": "conference-pour-les-entendants",
+    "mot": "Conférence pour les entendants",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/1f/LL-Q33302_%28fsl%29-Laura_Jauvert-Conf%C3%A9rence_pour_les_entendants.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Conf%C3%A9rence_pour_les_entendants.webm"
+  },
+  {
+    "id": "conference-pour-les-sourds",
+    "mot": "Conférence pour les sourds",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/c2/LL-Q33302_%28fsl%29-Laura_Jauvert-Conf%C3%A9rence_pour_les_sourds.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Conf%C3%A9rence_pour_les_sourds.webm"
+  },
+  {
+    "id": "configuration",
+    "mot": "Configuration",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/64/LL-Q33302_%28fsl%29-Laura_Jauvert-Configuration.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Configuration.webm"
+  },
+  {
+    "id": "conseil",
+    "mot": "Conseil",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/89/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-conseil.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-conseil.webm"
+  },
+  {
+    "id": "conseiller",
+    "mot": "Conseiller",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/61/LL-Q33302_%28fsl%29-Yug-MRV%2C_AR033-cam_720px-light_2x_spots_%2B_no_sun.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Yug-MRV,_AR033-cam_720px-light_2x_spots_%2B_no_sun.webm"
+  },
+  {
+    "id": "conseiller-n",
+    "mot": "Conseiller",
+    "note": "n.",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/61/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-conseiller_%28n.%29.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-conseiller_(n.).webm"
+  },
+  {
+    "id": "conseiller-v",
+    "mot": "Conseiller",
+    "note": "v.",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/0/06/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-conseiller_%28v.%29.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-conseiller_(v.).webm"
+  },
+  {
+    "id": "consultation-sur-place",
+    "mot": "Consultation sur place",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/84/LL-Q33302_%28fsl%29-Taliba31-consultation_sur_place.webm",
+    "auteur": "Taliba31",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Taliba31-consultation_sur_place.webm"
+  },
+  {
+    "id": "consultation-sur-place-livre",
+    "mot": "Consultation sur place",
+    "note": "livre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/ff/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-consultation_sur_place_%28livre%29.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-consultation_sur_place_(livre).webm"
+  },
+  {
+    "id": "conte",
+    "mot": "Conte",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/39/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-conte.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-conte.webm"
+  },
+  {
+    "id": "content",
+    "mot": "Content",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/56/LL-Q33302_%28fsl%29-Laura_Jauvert-Content.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Content.webm"
+  },
+  {
+    "id": "coquillage",
+    "mot": "Coquillage",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/e3/LL-Q33302_%28fsl%29-Roy_Batty_82-coquillage.webm",
+    "auteur": "Roy Batty 82",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Roy_Batty_82-coquillage.webm"
+  },
+  {
+    "id": "corps",
+    "mot": "Corps",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/f8/LL-Q33302_%28fsl%29-Laura_Jauvert-Corps.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Corps.webm"
+  },
+  {
+    "id": "coucou-accrocher-le-regard",
+    "mot": "Coucou",
+    "note": "accrocher le regard",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/ac/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-coucou_%28accrocher_le_regard%29.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-coucou_(accrocher_le_regard).webm"
+  },
+  {
+    "id": "couleur",
+    "mot": "Couleur",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/1b/LL-Q33302_%28fsl%29-Laura_Jauvert-Couleur.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Couleur.webm"
+  },
+  {
+    "id": "coup-de-coeur",
+    "mot": "Coup de coeur",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/a5/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-coup_de_coeur.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-coup_de_coeur.webm"
+  },
+  {
+    "id": "courir",
+    "mot": "Courir",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/8e/LL-Q33302_%28fsl%29-Laura_Jauvert-Courir.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Courir.webm"
+  },
+  {
+    "id": "cours",
+    "mot": "Cours",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/1e/LL-Q33302_%28fsl%29-Laura_Jauvert-Cours.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Cours.webm"
+  },
+  {
+    "id": "couscous",
+    "mot": "Couscous",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/bc/LL-Q33302_%28fsl%29-Antoine_l._%280x010C%29-couscous.webm",
+    "auteur": "Antoine l.",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Antoine_l._(0x010C)-couscous.webm"
+  },
+  {
+    "id": "cousin",
+    "mot": "Cousin",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/74/LL-Q33302_%28fsl%29-Laura_Jauvert-Cousin.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Cousin.webm"
+  },
+  {
+    "id": "crabe",
+    "mot": "Crabe",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/d0/LL-Q33302_%28fsl%29-Roy_Batty_82-crabe.webm",
+    "auteur": "Roy Batty 82",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Roy_Batty_82-crabe.webm"
+  },
+  {
+    "id": "crabes",
+    "mot": "Crabes",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/2/26/LL-Q33302_%28fsl%29-Roy_Batty_82-crabes.webm",
+    "auteur": "Roy Batty 82",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Roy_Batty_82-crabes.webm"
+  },
+  {
+    "id": "crayon",
+    "mot": "Crayon",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/14/LL-Q33302_%28fsl%29-Laura_Jauvert-Crayon.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Crayon.webm"
+  },
+  {
+    "id": "critiquer",
+    "mot": "Critiquer",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/19/LL-Q33302_%28fsl%29-Laura_Jauvert-Critiquer.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Critiquer.webm"
+  },
+  {
+    "id": "croiser",
+    "mot": "Croiser",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/be/LL-Q33302_%28fsl%29-Laura_Jauvert-Croiser.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Croiser.webm"
+  },
+  {
+    "id": "croissant",
+    "mot": "Croissant",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/f9/LL-Q33302_%28fsl%29-Laura_Jauvert-Croissant.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Croissant.webm"
+  },
+  {
+    "id": "cuisine",
+    "mot": "Cuisine",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/b6/LL-Q33302_%28fsl%29-Laura_Jauvert-Cuisine.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Cuisine.webm"
+  },
+  {
+    "id": "culture",
+    "mot": "Culture",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/ce/LL-Q33302_%28fsl%29-Taliba31-culture.webm",
+    "auteur": "Taliba31",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Taliba31-culture.webm"
+  },
+  {
+    "id": "danser",
+    "mot": "Danser",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/dd/LL-Q33302_%28fsl%29-Laura_Jauvert-Danser.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Danser.webm"
+  },
+  {
+    "id": "de-rien",
+    "mot": "De rien",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/c4/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-de_rien.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-de_rien.webm"
+  },
+  {
+    "id": "demain",
+    "mot": "Demain",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/fd/LL-Q33302_%28fsl%29-Laura_Jauvert-Demain.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Demain.webm"
+  },
+  {
+    "id": "demander",
+    "mot": "Demander",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/e4/LL-Q33302_%28fsl%29-Laura_Jauvert-Demander.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Demander.webm"
+  },
+  {
+    "id": "demander-conseil",
+    "mot": "Demander conseil",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/1c/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-demander_conseil.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-demander_conseil.webm"
+  },
+  {
+    "id": "derniere",
+    "mot": "Dernière",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/10/LL-Q33302_%28fsl%29-Laura_Jauvert-Derni%C3%A8re.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Derni%C3%A8re.webm"
+  },
+  {
+    "id": "derriere",
+    "mot": "Derrière",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/0/01/LL-Q33302_%28fsl%29-Laura_Jauvert-Derri%C3%A8re.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Derri%C3%A8re.webm"
+  },
+  {
+    "id": "dessert",
+    "mot": "Dessert",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/b7/LL-Q33302_%28fsl%29-Laura_Jauvert-Dessert.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Dessert.webm"
+  },
+  {
+    "id": "dessin-anime",
+    "mot": "Dessin animé",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/94/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-dessin_anim%C3%A9.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-dessin_anim%C3%A9.webm"
+  },
+  {
+    "id": "detail",
+    "mot": "Détail",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/cb/LL-Q33302_%28fsl%29-Laura_Jauvert-D%C3%A9tail.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-D%C3%A9tail.webm"
+  },
+  {
+    "id": "devant",
+    "mot": "Devant",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/10/LL-Q33302_%28fsl%29-Laura_Jauvert-Devant.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Devant.webm"
+  },
+  {
+    "id": "devoir",
+    "mot": "Devoir",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/c1/LL-Q33302_%28fsl%29-Laura_Jauvert-Devoir.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Devoir.webm"
+  },
+  {
+    "id": "dialoguer",
+    "mot": "Dialoguer",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/c7/LL-Q33302_%28fsl%29-Laura_Jauvert-Dialoguer.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Dialoguer.webm"
+  },
+  {
+    "id": "different",
+    "mot": "Différent",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/35/LL-Q33302_%28fsl%29-Laura_Jauvert-Diff%C3%A9rent.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Diff%C3%A9rent.webm"
+  },
+  {
+    "id": "diplome",
+    "mot": "Diplôme",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/e0/LL-Q33302_%28fsl%29-Laura_Jauvert-Dipl%C3%B4me.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Dipl%C3%B4me.webm"
+  },
+  {
+    "id": "dire",
+    "mot": "Dire",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/6a/LL-Q33302_%28fsl%29-Laura_Jauvert-Dire.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Dire.webm"
+  },
+  {
+    "id": "directeur",
+    "mot": "Directeur",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/a8/LL-Q33302_%28fsl%29-Laura_Jauvert-Directeur.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Directeur.webm"
+  },
+  {
+    "id": "discuter",
+    "mot": "Discuter",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/8c/LL-Q33302_%28fsl%29-Laura_Jauvert-Discuter.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Discuter.webm"
+  },
+  {
+    "id": "divorcer",
+    "mot": "Divorcer",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/a5/LL-Q33302_%28fsl%29-Laura_Jauvert-Divorcer.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Divorcer.webm"
+  },
+  {
+    "id": "dommage",
+    "mot": "Dommage",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/2/21/LL-Q33302_%28fsl%29-Laura_Jauvert-Dommage.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Dommage.webm"
+  },
+  {
+    "id": "donner-rendre",
+    "mot": "Donner, rendre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/2/24/LL-Q33302_%28fsl%29-Laura_Jauvert-Donner%2C_rendre.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Donner,_rendre.webm"
+  },
+  {
+    "id": "dore",
+    "mot": "Doré",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/af/LL-Q33302_%28fsl%29-Laura_Jauvert-Dor%C3%A9.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Dor%C3%A9.webm"
+  },
+  {
+    "id": "dormir",
+    "mot": "Dormir",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/11/LL-Q33302_%28fsl%29-Laura_Jauvert-Dormir.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Dormir.webm"
+  },
+  {
+    "id": "dossier",
+    "mot": "Dossier",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/9c/LL-Q33302_%28fsl%29-Laura_Jauvert-Dossier.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Dossier.webm"
+  },
+  {
+    "id": "dvd",
+    "mot": "DVD",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/3e/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-DVD.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-DVD.webm"
+  },
+  {
+    "id": "eau",
+    "mot": "Eau",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/89/LL-Q33302_%28fsl%29-Laura_Jauvert-Eau.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Eau.webm"
+  },
+  {
+    "id": "ecole",
+    "mot": "École",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/2/2d/LL-Q33302_%28fsl%29-Laura_Jauvert-%C3%89cole.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-%C3%89cole.webm"
+  },
+  {
+    "id": "ecrire",
+    "mot": "Écrire",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/4/41/LL-Q33302_%28fsl%29-Laura_Jauvert-%C3%89crire.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-%C3%89crire.webm"
+  },
+  {
+    "id": "educateur",
+    "mot": "Éducateur",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/13/LL-Q33302_%28fsl%29-Laura_Jauvert-%C3%89ducateur.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-%C3%89ducateur.webm"
+  },
+  {
+    "id": "eleve",
+    "mot": "Élève",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/82/LL-Q33302_%28fsl%29-Laura_Jauvert-%C3%89l%C3%A8ve.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-%C3%89l%C3%A8ve.webm"
+  },
+  {
+    "id": "email",
+    "mot": "Email",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/19/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-email.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-email.webm"
+  },
+  {
+    "id": "emplacement",
+    "mot": "Emplacement",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/92/LL-Q33302_%28fsl%29-Laura_Jauvert-Emplacement.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Emplacement.webm"
+  },
+  {
+    "id": "emprunter",
+    "mot": "Emprunter",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/f5/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-emprunter.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-emprunter.webm"
+  },
+  {
+    "id": "encore",
+    "mot": "Encore",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/cd/LL-Q33302_%28fsl%29-Roy_Batty_82-encore.webm",
+    "auteur": "Roy Batty 82",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Roy_Batty_82-encore.webm"
+  },
+  {
+    "id": "enfant",
+    "mot": "Enfant",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/6c/LL-Q33302_%28fsl%29-Laura_Jauvert-Enfant.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Enfant.webm"
+  },
+  {
+    "id": "enseigner-apprendre",
+    "mot": "Enseigner, apprendre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/f1/LL-Q33302_%28fsl%29-Laura_Jauvert-Enseigner%2C_apprendre.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Enseigner,_apprendre.webm"
+  },
+  {
+    "id": "ensemble",
+    "mot": "Ensemble",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/7d/LL-Q33302_%28fsl%29-Laura_Jauvert-Ensemble.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ensemble.webm"
+  },
+  {
+    "id": "entendant",
+    "mot": "Entendant",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/a5/LL-Q33302_%28fsl%29-Laura_Jauvert-Entendant.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Entendant.webm"
+  },
+  {
+    "id": "entree",
+    "mot": "Entrée",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/6b/LL-Q33302_%28fsl%29-Laura_Jauvert-Entr%C3%A9e.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Entr%C3%A9e.webm"
+  },
+  {
+    "id": "envoyer",
+    "mot": "Envoyer",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/88/LL-Q33302_%28fsl%29-Laura_Jauvert-Envoyer.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Envoyer.webm"
+  },
+  {
+    "id": "escargot",
+    "mot": "Escargot",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/6d/LL-Q33302_%28fsl%29-Laura_Jauvert-Escargot.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Escargot.webm"
+  },
+  {
+    "id": "espace",
+    "mot": "Espace",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/b5/LL-Q33302_%28fsl%29-Taliba31-espace.webm",
+    "auteur": "Taliba31",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Taliba31-espace.webm"
+  },
+  {
+    "id": "espace-jeunesse",
+    "mot": "Espace jeunesse",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/c2/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-espace_jeunesse.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-espace_jeunesse.webm"
+  },
+  {
+    "id": "espace-lieu",
+    "mot": "Espace",
+    "note": "lieu",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/b5/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-espace_%28lieu%29.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-espace_(lieu).webm"
+  },
+  {
+    "id": "esperer",
+    "mot": "Espérer",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/56/LL-Q33302_%28fsl%29-Laura_Jauvert-Esp%C3%A9rer.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Esp%C3%A9rer.webm"
+  },
+  {
+    "id": "essayer",
+    "mot": "Essayer",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/97/LL-Q33302_%28fsl%29-Laura_Jauvert-Essayer.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Essayer.webm"
+  },
+  {
+    "id": "ete",
+    "mot": "Été",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/3d/LL-Q33302_%28fsl%29-Laura_Jauvert-%C3%89t%C3%A9.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-%C3%89t%C3%A9.webm"
+  },
+  {
+    "id": "etonner",
+    "mot": "Étonner",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/1a/LL-Q33302_%28fsl%29-Laura_Jauvert-%C3%89tonner.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-%C3%89tonner.webm"
+  },
+  {
+    "id": "etre-contre",
+    "mot": "Être contre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/8b/LL-Q33302_%28fsl%29-Laura_Jauvert-%C3%8Atre_contre.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-%C3%8Atre_contre.webm"
+  },
+  {
+    "id": "famille",
+    "mot": "Famille",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/90/LL-Q33302_%28fsl%29-Laura_Jauvert-Famille.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Famille.webm"
+  },
+  {
+    "id": "fatigue",
+    "mot": "Fatigué",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/82/LL-Q33302_%28fsl%29-Laura_Jauvert-Fatigu%C3%A9.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Fatigu%C3%A9.webm"
+  },
+  {
+    "id": "faxer",
+    "mot": "Faxer",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/b1/LL-Q33302_%28fsl%29-Laura_Jauvert-Faxer.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Faxer.webm"
+  },
+  {
+    "id": "femme",
+    "mot": "Femme",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/36/LL-Q33302_%28fsl%29-Laura_Jauvert-Femme.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Femme.webm"
+  },
+  {
+    "id": "femme-de-menage",
+    "mot": "Femme de ménage",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/0/00/LL-Q33302_%28fsl%29-Laura_Jauvert-Femme_de_m%C3%A9nage.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Femme_de_m%C3%A9nage.webm"
+  },
+  {
+    "id": "fenetre",
+    "mot": "Fenêtre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/d0/LL-Q33302_%28fsl%29-Laura_Jauvert-Fen%C3%AAtre.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Fen%C3%AAtre.webm"
+  },
+  {
+    "id": "ferme",
+    "mot": "Fermé",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/39/LL-Q33302_%28fsl%29-Laura_Jauvert-Ferm%C3%A9.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ferm%C3%A9.webm"
+  },
+  {
+    "id": "fete",
+    "mot": "Fête",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/0/0c/LL-Q33302_%28fsl%29-Laura_Jauvert-F%C3%AAte.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-F%C3%AAte.webm"
+  },
+  {
+    "id": "feter",
+    "mot": "Fêter",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/32/LL-Q33302_%28fsl%29-Laura_Jauvert-F%C3%AAter.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-F%C3%AAter.webm"
+  },
+  {
+    "id": "fier",
+    "mot": "Fier",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/a0/LL-Q33302_%28fsl%29-Laura_Jauvert-Fier.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Fier.webm"
+  },
+  {
+    "id": "filet",
+    "mot": "Filet",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/8b/LL-Q33302_%28fsl%29-Laura_Jauvert-Filet.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Filet.webm"
+  },
+  {
+    "id": "fille",
+    "mot": "Fille",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/ab/LL-Q33302_%28fsl%29-Laura_Jauvert-Fille.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Fille.webm"
+  },
+  {
+    "id": "fille-la",
+    "mot": "Fille",
+    "note": "la",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/e1/LL-Q33302_%28fsl%29-Laura_Jauvert-Fille_%28la%29.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Fille_(la).webm"
+  },
+  {
+    "id": "film",
+    "mot": "Film",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/f5/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-film.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-film.webm"
+  },
+  {
+    "id": "fils",
+    "mot": "Fils",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/71/LL-Q33302_%28fsl%29-Laura_Jauvert-Fils.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Fils.webm"
+  },
+  {
+    "id": "finir",
+    "mot": "Finir",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/3f/LL-Q33302_%28fsl%29-Laura_Jauvert-Finir.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Finir.webm"
+  },
+  {
+    "id": "fleur",
+    "mot": "Fleur",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/6d/LL-Q33302_%28fsl%29-Laura_Jauvert-Fleur.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Fleur.webm"
+  },
+  {
+    "id": "fonce",
+    "mot": "Foncé",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/3c/LL-Q33302_%28fsl%29-Laura_Jauvert-Fonc%C3%A9.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Fonc%C3%A9.webm"
+  },
+  {
+    "id": "foot",
+    "mot": "Foot",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/8e/LL-Q33302_%28fsl%29-Laura_Jauvert-Foot.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Foot.webm"
+  },
+  {
+    "id": "formateur",
+    "mot": "Formateur",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/c1/LL-Q33302_%28fsl%29-Laura_Jauvert-Formateur.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Formateur.webm"
+  },
+  {
+    "id": "formation",
+    "mot": "Formation",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/0/09/LL-Q33302_%28fsl%29-Laura_Jauvert-Formation.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Formation.webm"
+  },
+  {
+    "id": "forme",
+    "mot": "Forme",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/c0/LL-Q33302_%28fsl%29-Laura_Jauvert-Forme.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Forme.webm"
+  },
+  {
+    "id": "francais-langue",
+    "mot": "Français",
+    "note": "langue",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/68/LL-Q33302_%28fsl%29-Laura_Jauvert-Fran%C3%A7ais_%28langue%29.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Fran%C3%A7ais_(langue).webm"
+  },
+  {
+    "id": "frere",
+    "mot": "Frère",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/7e/LL-Q33302_%28fsl%29-Laura_Jauvert-Fr%C3%A8re.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Fr%C3%A8re.webm"
+  },
+  {
+    "id": "frite",
+    "mot": "Frite",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/98/LL-Q33302_%28fsl%29-Laura_Jauvert-Frite.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Frite.webm"
+  },
+  {
+    "id": "froid",
+    "mot": "Froid",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/de/LL-Q33302_%28fsl%29-Laura_Jauvert-Froid.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Froid.webm"
+  },
+  {
+    "id": "fromage",
+    "mot": "Fromage",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/56/LL-Q33302_%28fsl%29-Laura_Jauvert-Fromage.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Fromage.webm"
+  },
+  {
+    "id": "fruit",
+    "mot": "Fruit",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/c3/LL-Q33302_%28fsl%29-Laura_Jauvert-Fruit.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Fruit.webm"
+  },
+  {
+    "id": "gap",
+    "mot": "Gap",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/82/LL-Q33302_%28fsl%29-Laura_Jauvert-Gap.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Gap.webm"
+  },
+  {
+    "id": "garcon",
+    "mot": "Garçon",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/b0/LL-Q33302_%28fsl%29-Laura_Jauvert-Gar%C3%A7on.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Gar%C3%A7on.webm"
+  },
+  {
+    "id": "gare",
+    "mot": "Gare",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/1d/LL-Q33302_%28fsl%29-Laura_Jauvert-Gare.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Gare.webm"
+  },
+  {
+    "id": "gateau",
+    "mot": "Gâteau",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/4/41/LL-Q33302_%28fsl%29-Laura_Jauvert-G%C3%A2teau.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-G%C3%A2teau.webm"
+  },
+  {
+    "id": "gentil",
+    "mot": "Gentil",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/4/40/LL-Q33302_%28fsl%29-Laura_Jauvert-Gentil.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Gentil.webm"
+  },
+  {
+    "id": "girafe",
+    "mot": "Girafe",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/3c/LL-Q33302_%28fsl%29-Laura_Jauvert-Girafe.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Girafe.webm"
+  },
+  {
+    "id": "glisser",
+    "mot": "Glisser",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/2/2d/LL-Q33302_%28fsl%29-Laura_Jauvert-Glisser.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Glisser.webm"
+  },
+  {
+    "id": "grand-mere",
+    "mot": "Grand-mère",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/84/LL-Q33302_%28fsl%29-Laura_Jauvert-Grand-m%C3%A8re.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Grand-m%C3%A8re.webm"
+  },
+  {
+    "id": "grand-parent",
+    "mot": "Grand-parent",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/65/LL-Q33302_%28fsl%29-Laura_Jauvert-Grand-parent.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Grand-parent.webm"
+  },
+  {
+    "id": "grand-pere",
+    "mot": "Grand-père",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/83/LL-Q33302_%28fsl%29-Laura_Jauvert-Grand-p%C3%A8re.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Grand-p%C3%A8re.webm"
+  },
+  {
+    "id": "histoire",
+    "mot": "Histoire",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/a2/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-Histoire.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-Histoire.webm"
+  },
+  {
+    "id": "histoire-discipline",
+    "mot": "Histoire",
+    "note": "discipline",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/ae/LL-Q33302_%28fsl%29-Taliba31-histoire_%28discipline%29.webm",
+    "auteur": "Taliba31",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Taliba31-histoire_(discipline).webm"
+  },
+  {
+    "id": "histoire-recit",
+    "mot": "Histoire",
+    "note": "recit",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/66/LL-Q33302_%28fsl%29-Taliba31-histoire_%28recit%29.webm",
+    "auteur": "Taliba31",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Taliba31-histoire_(recit).webm"
+  },
+  {
+    "id": "hypnose",
+    "mot": "Hypnose",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/19/LL-Q33302_%28fsl%29-Laura_Jauvert-Hypnose.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Hypnose.webm"
+  },
+  {
+    "id": "il-y-a-du-vent",
+    "mot": "Il y a du vent",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/8c/LL-Q33302_%28fsl%29-Laura_Jauvert-Il_y_a_du_vent.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Il_y_a_du_vent.webm"
+  },
+  {
+    "id": "important",
+    "mot": "Important",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/64/LL-Q33302_%28fsl%29-Laura_Jauvert-Important.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Important.webm"
+  },
+  {
+    "id": "inscription",
+    "mot": "Inscription",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/56/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-inscription.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-inscription.webm"
+  },
+  {
+    "id": "internet",
+    "mot": "Internet",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/d4/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-internet.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-internet.webm"
+  },
+  {
+    "id": "j-ai",
+    "mot": "J'ai",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/71/LL-Q33302_%28fsl%29-Laura_Jauvert-J%27ai.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-J%27ai.webm"
+  },
+  {
+    "id": "je-n-ai-pas-le-temps",
+    "mot": "Je n'ai pas le temps",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/85/LL-Q33302_%28fsl%29-Laura_Jauvert-Je_n%27ai_pas_le_temps.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Je_n%27ai_pas_le_temps.webm"
+  },
+  {
+    "id": "je-ne-comprends-pas",
+    "mot": "Je ne comprends pas",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/50/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-je_ne_comprends_pas.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-je_ne_comprends_pas.webm"
+  },
+  {
+    "id": "je-ne-crois-pas",
+    "mot": "Je ne crois pas",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/c2/LL-Q33302_%28fsl%29-Laura_Jauvert-Je_ne_crois_pas.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Je_ne_crois_pas.webm"
+  },
+  {
+    "id": "je-suis-d-accord",
+    "mot": "Je suis d'accord",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/fc/LL-Q33302_%28fsl%29-Laura_Jauvert-Je_suis_d%27accord.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Je_suis_d%27accord.webm"
+  },
+  {
+    "id": "jeux",
+    "mot": "Jeux",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/4/4a/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-jeux.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-jeux.webm"
+  },
+  {
+    "id": "jouet",
+    "mot": "Jouet",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/da/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-jouet.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-jouet.webm"
+  },
+  {
+    "id": "jouets",
+    "mot": "Jouets",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/65/LL-Q33302_%28fsl%29-Taliba31-jouets.webm",
+    "auteur": "Taliba31",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Taliba31-jouets.webm"
+  },
+  {
+    "id": "journal",
+    "mot": "Journal",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/35/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-journal.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-journal.webm"
+  },
+  {
+    "id": "laid",
+    "mot": "Laid",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/8a/LL-Q33302_%28fsl%29-Laura_Jauvert-Laid.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Laid.webm"
+  },
+  {
+    "id": "lapin",
+    "mot": "Lapin",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/ed/LL-Q33302_%28fsl%29-Yug-lapin.webm",
+    "auteur": "Yug",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Yug-lapin.webm"
+  },
+  {
+    "id": "lire",
+    "mot": "Lire",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/d9/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-lire.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-lire.webm"
+  },
+  {
+    "id": "lit",
+    "mot": "Lit",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/fb/LL-Q33302_%28fsl%29-Laura_Jauvert-Lit.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Lit.webm"
+  },
+  {
+    "id": "litterature",
+    "mot": "Littérature",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/1a/LL-Q33302_%28fsl%29-Taliba31-litt%C3%A9rature.webm",
+    "auteur": "Taliba31",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Taliba31-litt%C3%A9rature.webm"
+  },
+  {
+    "id": "livre",
+    "mot": "Livre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/4/48/LL-Q33302_%28fsl%29-Antoine_l._%280x010C%29-livre.webm",
+    "auteur": "Antoine l.",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Antoine_l._(0x010C)-livre.webm"
+  },
+  {
+    "id": "livre-cd",
+    "mot": "Livre CD",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/1b/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-livre_CD.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-livre_CD.webm"
+  },
+  {
+    "id": "livre-policier",
+    "mot": "Livre policier",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/ad/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-livre_policier.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-livre_policier.webm"
+  },
+  {
+    "id": "livre-pour-enfant",
+    "mot": "Livre pour enfant",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/f0/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-livre_pour_enfant.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-livre_pour_enfant.webm"
+  },
+  {
+    "id": "livre-pour-enfants",
+    "mot": "Livre pour enfants",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/50/LL-Q33302_%28fsl%29-Taliba31-livre_pour_enfants.webm",
+    "auteur": "Taliba31",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Taliba31-livre_pour_enfants.webm"
+  },
+  {
+    "id": "ma-mes",
+    "mot": "Ma, mes",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/a1/LL-Q33302_%28fsl%29-Laura_Jauvert-Ma%2C_mes.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ma,_mes.webm"
+  },
+  {
+    "id": "maintenant",
+    "mot": "Maintenant",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/34/LL-Q33302_%28fsl%29-Laura_Jauvert-Maintenant.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Maintenant.webm"
+  },
+  {
+    "id": "maitresse",
+    "mot": "Maîtresse",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/58/LL-Q33302_%28fsl%29-Laura_Jauvert-Ma%C3%AEtresse.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ma%C3%AEtresse.webm"
+  },
+  {
+    "id": "manga",
+    "mot": "Manga",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/79/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-manga.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-manga.webm"
+  },
+  {
+    "id": "manger",
+    "mot": "Manger",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/9a/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-manger.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-manger.webm"
+  },
+  {
+    "id": "marcher",
+    "mot": "Marcher",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/b3/LL-Q33302_%28fsl%29-Laura_Jauvert-Marcher.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Marcher.webm"
+  },
+  {
+    "id": "marignane",
+    "mot": "Marignane",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/70/LL-Q33302_%28fsl%29-Laura_Jauvert-Marignane.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Marignane.webm"
+  },
+  {
+    "id": "marron",
+    "mot": "Marron",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/0/00/LL-Q33302_%28fsl%29-Laura_Jauvert-Marron.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Marron.webm"
+  },
+  {
+    "id": "marseille",
+    "mot": "Marseille",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/d7/LL-Q33302_%28fsl%29-Laura_Jauvert-Marseille.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Marseille.webm"
+  },
+  {
+    "id": "matin",
+    "mot": "Matin",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/0/0a/LL-Q33302_%28fsl%29-Laura_Jauvert-Matin.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Matin.webm"
+  },
+  {
+    "id": "mauvais",
+    "mot": "Mauvais",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/b3/LL-Q33302_%28fsl%29-Laura_Jauvert-Mauvais.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Mauvais.webm"
+  },
+  {
+    "id": "mechant",
+    "mot": "Méchant",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/ed/LL-Q33302_%28fsl%29-Laura_Jauvert-M%C3%A9chant.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-M%C3%A9chant.webm"
+  },
+  {
+    "id": "medecin",
+    "mot": "Médecin",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/3b/LL-Q33302_%28fsl%29-Laura_Jauvert-M%C3%A9decin.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-M%C3%A9decin.webm"
+  },
+  {
+    "id": "mer",
+    "mot": "Mer",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/ec/LL-Q33302_%28fsl%29-Laura_Jauvert-Mer.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Mer.webm"
+  },
+  {
+    "id": "merci",
+    "mot": "Merci",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/f1/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-merci.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-merci.webm"
+  },
+  {
+    "id": "messe",
+    "mot": "Messe",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/b9/LL-Q33302_%28fsl%29-Laura_Jauvert-Messe.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Messe.webm"
+  },
+  {
+    "id": "mettre",
+    "mot": "Mettre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/fa/LL-Q33302_%28fsl%29-Laura_Jauvert-Mettre.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Mettre.webm"
+  },
+  {
+    "id": "mettre-a-la-porte",
+    "mot": "Mettre à la porte",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/bd/LL-Q33302_%28fsl%29-Laura_Jauvert-Mettre_%C3%A0_la_porte.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Mettre_%C3%A0_la_porte.webm"
+  },
+  {
+    "id": "midi",
+    "mot": "Midi",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/e0/LL-Q33302_%28fsl%29-Laura_Jauvert-Midi.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Midi.webm"
+  },
+  {
+    "id": "moi",
+    "mot": "Moi",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/a2/LL-Q33302_%28fsl%29-Laura_Jauvert-Moi.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Moi.webm"
+  },
+  {
+    "id": "moliere",
+    "mot": "Molière",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/f9/LL-Q33302_%28fsl%29-Taliba31-Moli%C3%A8re.webm",
+    "auteur": "Taliba31",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Taliba31-Moli%C3%A8re.webm"
+  },
+  {
+    "id": "monsieur",
+    "mot": "Monsieur",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/e4/LL-Q33302_%28fsl%29-Laura_Jauvert-Monsieur.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Monsieur.webm"
+  },
+  {
+    "id": "montagne",
+    "mot": "Montagne",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/aa/LL-Q33302_%28fsl%29-Laura_Jauvert-Montagne.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Montagne.webm"
+  },
+  {
+    "id": "montgolfiere",
+    "mot": "Montgolfière",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/2/2b/LL-Q33302_%28fsl%29-Laura_Jauvert-Montgolfi%C3%A8re.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Montgolfi%C3%A8re.webm"
+  },
+  {
+    "id": "montre-accessoire",
+    "mot": "Montre",
+    "note": "accessoire",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/2/24/LL-Q33302_%28fsl%29-Laura_Jauvert-Montre_%28accessoire%29.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Montre_(accessoire).webm"
+  },
+  {
+    "id": "moquer",
+    "mot": "Moquer",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/5d/LL-Q33302_%28fsl%29-Laura_Jauvert-Moquer.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Moquer.webm"
+  },
+  {
+    "id": "mot",
+    "mot": "Mot",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/4/45/LL-Q33302_%28fsl%29-Laura_Jauvert-Mot.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Mot.webm"
+  },
+  {
+    "id": "moto",
+    "mot": "Moto",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/85/LL-Q33302_%28fsl%29-Laura_Jauvert-Moto.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Moto.webm"
+  },
+  {
+    "id": "mouton",
+    "mot": "Mouton",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/3f/LL-Q33302_%28fsl%29-Laura_Jauvert-Mouton.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Mouton.webm"
+  },
+  {
+    "id": "mouvement",
+    "mot": "Mouvement",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/81/LL-Q33302_%28fsl%29-Laura_Jauvert-Mouvement.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Mouvement.webm"
+  },
+  {
+    "id": "multimedia",
+    "mot": "Multimedia",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/a7/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-multimedia.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-multimedia.webm"
+  },
+  {
+    "id": "musique",
+    "mot": "Musique",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/f7/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-musique.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-musique.webm"
+  },
+  {
+    "id": "nager",
+    "mot": "Nager",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/5e/LL-Q33302_%28fsl%29-Laura_Jauvert-Nager.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Nager.webm"
+  },
+  {
+    "id": "neveu",
+    "mot": "Neveu",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/c3/LL-Q33302_%28fsl%29-Laura_Jauvert-Neveu.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Neveu.webm"
+  },
+  {
+    "id": "niece",
+    "mot": "Nièce",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/94/LL-Q33302_%28fsl%29-Laura_Jauvert-Ni%C3%A8ce.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ni%C3%A8ce.webm"
+  },
+  {
+    "id": "noir",
+    "mot": "Noir",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/0/0d/LL-Q33302_%28fsl%29-Laura_Jauvert-Noir.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Noir.webm"
+  },
+  {
+    "id": "nombreux",
+    "mot": "Nombreux",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/c8/LL-Q33302_%28fsl%29-Laura_Jauvert-Nombreux.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Nombreux.webm"
+  },
+  {
+    "id": "non",
+    "mot": "Non",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/94/LL-Q33302_%28fsl%29-Laura_Jauvert-Non.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Non.webm"
+  },
+  {
+    "id": "non-merci",
+    "mot": "Non merci",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/4/42/LL-Q33302_%28fsl%29-Laura_Jauvert-Non_merci.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Non_merci.webm"
+  },
+  {
+    "id": "nous",
+    "mot": "Nous",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/a8/LL-Q33302_%28fsl%29-Laura_Jauvert-Nous.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Nous.webm"
+  },
+  {
+    "id": "nouvelle",
+    "mot": "Nouvelle",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/67/LL-Q33302_%28fsl%29-Laura_Jauvert-Nouvelle.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Nouvelle.webm"
+  },
+  {
+    "id": "objet",
+    "mot": "Objet",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/0/07/LL-Q33302_%28fsl%29-Laura_Jauvert-Objet.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Objet.webm"
+  },
+  {
+    "id": "oeuf",
+    "mot": "Oeuf",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/4/41/LL-Q33302_%28fsl%29-Laura_Jauvert-Oeuf.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Oeuf.webm"
+  },
+  {
+    "id": "offrir",
+    "mot": "Offrir",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/e9/LL-Q33302_%28fsl%29-Laura_Jauvert-Offrir.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Offrir.webm"
+  },
+  {
+    "id": "oie",
+    "mot": "Oie",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/0/0b/LL-Q33302_%28fsl%29-Laura_Jauvert-Oie.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Oie.webm"
+  },
+  {
+    "id": "oncle",
+    "mot": "Oncle",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/61/LL-Q33302_%28fsl%29-Laura_Jauvert-Oncle.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Oncle.webm"
+  },
+  {
+    "id": "or",
+    "mot": "Or",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/1a/LL-Q33302_%28fsl%29-Laura_Jauvert-Or.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Or.webm"
+  },
+  {
+    "id": "orange",
+    "mot": "Orange",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/92/LL-Q33302_%28fsl%29-Laura_Jauvert-Orange.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Orange.webm"
+  },
+  {
+    "id": "orientation",
+    "mot": "Orientation",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/88/LL-Q33302_%28fsl%29-Laura_Jauvert-Orientation.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Orientation.webm"
+  },
+  {
+    "id": "ou",
+    "mot": "Où",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/50/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-o%C3%B9.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-o%C3%B9.webm"
+  },
+  {
+    "id": "oublier",
+    "mot": "Oublier",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/36/LL-Q33302_%28fsl%29-Laura_Jauvert-Oublier.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Oublier.webm"
+  },
+  {
+    "id": "oui",
+    "mot": "Oui",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/d9/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-oui.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-oui.webm"
+  },
+  {
+    "id": "ours",
+    "mot": "Ours",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/50/LL-Q33302_%28fsl%29-Laura_Jauvert-Ours.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ours.webm"
+  },
+  {
+    "id": "ouvert",
+    "mot": "Ouvert",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/ff/LL-Q33302_%28fsl%29-Laura_Jauvert-Ouvert.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ouvert.webm"
+  },
+  {
+    "id": "paella",
+    "mot": "Paella",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/bd/LL-Q33302_%28fsl%29-Laura_Jauvert-Paella.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Paella.webm"
+  },
+  {
+    "id": "pain",
+    "mot": "Pain",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/4/41/LL-Q33302_%28fsl%29-Laura_Jauvert-Pain.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pain.webm"
+  },
+  {
+    "id": "palme",
+    "mot": "Palme",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/4/4f/LL-Q33302_%28fsl%29-Laura_Jauvert-Palme.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Palme.webm"
+  },
+  {
+    "id": "pantalon",
+    "mot": "Pantalon",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/97/LL-Q33302_%28fsl%29-Laura_Jauvert-Pantalon.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pantalon.webm"
+  },
+  {
+    "id": "papa",
+    "mot": "Papa",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/85/LL-Q33302_%28fsl%29-Laura_Jauvert-Papa.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Papa.webm"
+  },
+  {
+    "id": "papier",
+    "mot": "Papier",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/13/LL-Q33302_%28fsl%29-Laura_Jauvert-Papier.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Papier.webm"
+  },
+  {
+    "id": "parametre",
+    "mot": "Paramètre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/0/0a/LL-Q33302_%28fsl%29-Laura_Jauvert-Param%C3%A8tre.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Param%C3%A8tre.webm"
+  },
+  {
+    "id": "pardon",
+    "mot": "Pardon",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/dd/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-pardon.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-pardon.webm"
+  },
+  {
+    "id": "pareil",
+    "mot": "Pareil",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/94/LL-Q33302_%28fsl%29-Laura_Jauvert-Pareil.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pareil.webm"
+  },
+  {
+    "id": "parent",
+    "mot": "Parent",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/0/07/LL-Q33302_%28fsl%29-Laura_Jauvert-Parent.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Parent.webm"
+  },
+  {
+    "id": "paris",
+    "mot": "Paris",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/e1/LL-Q33302_%28fsl%29-Laura_Jauvert-Paris.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Paris.webm"
+  },
+  {
+    "id": "parle",
+    "mot": "Parlé",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/d3/LL-Q33302_%28fsl%29-Laura_Jauvert-Parl%C3%A9.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Parl%C3%A9.webm"
+  },
+  {
+    "id": "participer",
+    "mot": "Participer",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/82/LL-Q33302_%28fsl%29-Laura_Jauvert-Participer.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Participer.webm"
+  },
+  {
+    "id": "partir",
+    "mot": "Partir",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/8d/LL-Q33302_%28fsl%29-Laura_Jauvert-Partir.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Partir.webm"
+  },
+  {
+    "id": "pas-content",
+    "mot": "Pas content",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/77/LL-Q33302_%28fsl%29-Laura_Jauvert-Pas_content.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pas_content.webm"
+  },
+  {
+    "id": "pas-grave",
+    "mot": "Pas grave",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/86/LL-Q33302_%28fsl%29-Laura_Jauvert-Pas_grave.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pas_grave.webm"
+  },
+  {
+    "id": "pate",
+    "mot": "Pâte",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/a9/LL-Q33302_%28fsl%29-Laura_Jauvert-P%C3%A2te.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-P%C3%A2te.webm"
+  },
+  {
+    "id": "patin-a-glace",
+    "mot": "Patin à glace",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/73/LL-Q33302_%28fsl%29-Laura_Jauvert-Patin_%C3%A0_glace.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Patin_%C3%A0_glace.webm"
+  },
+  {
+    "id": "patin-a-roulettes",
+    "mot": "Patin à roulettes",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/3f/LL-Q33302_%28fsl%29-Laura_Jauvert-Patin_%C3%A0_roulettes.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Patin_%C3%A0_roulettes.webm"
+  },
+  {
+    "id": "patron",
+    "mot": "Patron",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/ec/LL-Q33302_%28fsl%29-Laura_Jauvert-Patron.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Patron.webm"
+  },
+  {
+    "id": "payer",
+    "mot": "Payer",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/0/05/LL-Q33302_%28fsl%29-Laura_Jauvert-Payer.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Payer.webm"
+  },
+  {
+    "id": "personne",
+    "mot": "Personne",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/12/LL-Q33302_%28fsl%29-Laura_Jauvert-Personne.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Personne.webm"
+  },
+  {
+    "id": "petit",
+    "mot": "Petit",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/0/01/LL-Q33302_%28fsl%29-Laura_Jauvert-Petit.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Petit.webm"
+  },
+  {
+    "id": "petits-enfants",
+    "mot": "Petits-enfants",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/bd/LL-Q33302_%28fsl%29-Laura_Jauvert-Petits-enfants.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Petits-enfants.webm"
+  },
+  {
+    "id": "peur",
+    "mot": "Peur",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/bd/LL-Q33302_%28fsl%29-Yug-peur.webm",
+    "auteur": "Yug",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Yug-peur.webm"
+  },
+  {
+    "id": "phrase",
+    "mot": "Phrase",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/f3/LL-Q33302_%28fsl%29-Laura_Jauvert-Phrase.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Phrase.webm"
+  },
+  {
+    "id": "ping-pong",
+    "mot": "Ping-pong",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/ae/LL-Q33302_%28fsl%29-Laura_Jauvert-Ping-pong.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ping-pong.webm"
+  },
+  {
+    "id": "pique-nique",
+    "mot": "Pique-nique",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/a9/LL-Q33302_%28fsl%29-Laura_Jauvert-Pique-nique.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pique-nique.webm"
+  },
+  {
+    "id": "piscine",
+    "mot": "Piscine",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/f2/LL-Q33302_%28fsl%29-Laura_Jauvert-Piscine.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Piscine.webm"
+  },
+  {
+    "id": "plage",
+    "mot": "Plage",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/d9/LL-Q33302_%28fsl%29-Laura_Jauvert-Plage.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Plage.webm"
+  },
+  {
+    "id": "planche-a-voile",
+    "mot": "Planche à voile",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/2/23/LL-Q33302_%28fsl%29-Laura_Jauvert-Planche_%C3%A0_voile.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Planche_%C3%A0_voile.webm"
+  },
+  {
+    "id": "planete",
+    "mot": "Planète",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/b7/LL-Q33302_%28fsl%29-Laura_Jauvert-Plan%C3%A8te.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Plan%C3%A8te.webm"
+  },
+  {
+    "id": "pleurer",
+    "mot": "Pleurer",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/17/LL-Q33302_%28fsl%29-Laura_Jauvert-Pleurer.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pleurer.webm"
+  },
+  {
+    "id": "pleuvoir",
+    "mot": "Pleuvoir",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/ca/LL-Q33302_%28fsl%29-Laura_Jauvert-Pleuvoir.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pleuvoir.webm"
+  },
+  {
+    "id": "plonger",
+    "mot": "Plonger",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/9c/LL-Q33302_%28fsl%29-Laura_Jauvert-Plonger.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Plonger.webm"
+  },
+  {
+    "id": "plusieurs",
+    "mot": "Plusieurs",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/fc/LL-Q33302_%28fsl%29-Laura_Jauvert-Plusieurs.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Plusieurs.webm"
+  },
+  {
+    "id": "poesie",
+    "mot": "Poésie",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/19/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-po%C3%A9sie.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-po%C3%A9sie.webm"
+  },
+  {
+    "id": "poisson",
+    "mot": "Poisson",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/c5/LL-Q33302_%28fsl%29-Yug-poisson.webm",
+    "auteur": "Yug",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Yug-poisson.webm"
+  },
+  {
+    "id": "polonais-langue",
+    "mot": "Polonais",
+    "note": "langue",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/ab/LL-Q33302_%28fsl%29-Laura_Jauvert-Polonais_%28langue%29.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Polonais_(langue).webm"
+  },
+  {
+    "id": "pomme",
+    "mot": "Pomme",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/5a/LL-Q33302_%28fsl%29-Laura_Jauvert-Pomme.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pomme.webm"
+  },
+  {
+    "id": "pomme-de-terre",
+    "mot": "Pomme de terre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/ba/LL-Q33302_%28fsl%29-Laura_Jauvert-Pomme_de_terre.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pomme_de_terre.webm"
+  },
+  {
+    "id": "pompier",
+    "mot": "Pompier",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/50/LL-Q33302_%28fsl%29-Laura_Jauvert-Pompier.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pompier.webm"
+  },
+  {
+    "id": "pont",
+    "mot": "Pont",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/de/LL-Q33302_%28fsl%29-Laura_Jauvert-Pont.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pont.webm"
+  },
+  {
+    "id": "portable",
+    "mot": "Portable",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/97/LL-Q33302_%28fsl%29-Laura_Jauvert-Portable.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Portable.webm"
+  },
+  {
+    "id": "porte",
+    "mot": "Porte",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/94/LL-Q33302_%28fsl%29-Laura_Jauvert-Porte.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Porte.webm"
+  },
+  {
+    "id": "poubelle",
+    "mot": "Poubelle",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/6a/LL-Q33302_%28fsl%29-Laura_Jauvert-Poubelle.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Poubelle.webm"
+  },
+  {
+    "id": "poule",
+    "mot": "Poule",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/cf/LL-Q33302_%28fsl%29-Laura_Jauvert-Poule.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Poule.webm"
+  },
+  {
+    "id": "pour",
+    "mot": "Pour",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/fa/LL-Q33302_%28fsl%29-Laura_Jauvert-Pour.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pour.webm"
+  },
+  {
+    "id": "pour-rien",
+    "mot": "Pour rien",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/73/LL-Q33302_%28fsl%29-Laura_Jauvert-Pour_rien.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pour_rien.webm"
+  },
+  {
+    "id": "pourquoi",
+    "mot": "Pourquoi",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/5f/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-pourquoi.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-pourquoi.webm"
+  },
+  {
+    "id": "preferee",
+    "mot": "Préféré·e",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/e6/LL-Q33302_%28fsl%29-Laura_Jauvert-Pr%C3%A9f%C3%A9r%C3%A9%C2%B7e.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pr%C3%A9f%C3%A9r%C3%A9%C2%B7e.webm"
+  },
+  {
+    "id": "preferer",
+    "mot": "Préférer",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/df/LL-Q33302_%28fsl%29-Laura_Jauvert-Pr%C3%A9f%C3%A9rer.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pr%C3%A9f%C3%A9rer.webm"
+  },
+  {
+    "id": "premiere",
+    "mot": "Première",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/14/LL-Q33302_%28fsl%29-Laura_Jauvert-Premi%C3%A8re.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Premi%C3%A8re.webm"
+  },
+  {
+    "id": "prendre",
+    "mot": "Prendre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/a0/LL-Q33302_%28fsl%29-Laura_Jauvert-Prendre.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Prendre.webm"
+  },
+  {
+    "id": "prenom",
+    "mot": "Prénom",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/f5/LL-Q33302_%28fsl%29-Laura_Jauvert-Pr%C3%A9nom.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pr%C3%A9nom.webm"
+  },
+  {
+    "id": "presenter-montrer",
+    "mot": "Présenter, montrer",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/fb/LL-Q33302_%28fsl%29-Laura_Jauvert-Pr%C3%A9senter%2C_montrer.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pr%C3%A9senter,_montrer.webm"
+  },
+  {
+    "id": "president-de-la-republique",
+    "mot": "Président de la république",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/19/LL-Q33302_%28fsl%29-Laura_Jauvert-Pr%C3%A9sident_de_la_r%C3%A9publique.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pr%C3%A9sident_de_la_r%C3%A9publique.webm"
+  },
+  {
+    "id": "pret",
+    "mot": "Prêt",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/bc/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-pr%C3%AAt.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-pr%C3%AAt.webm"
+  },
+  {
+    "id": "preter",
+    "mot": "Prêter",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/71/LL-Q33302_%28fsl%29-Laura_Jauvert-Pr%C3%AAter.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pr%C3%AAter.webm"
+  },
+  {
+    "id": "printemps",
+    "mot": "Printemps",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/af/LL-Q33302_%28fsl%29-Laura_Jauvert-Printemps.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Printemps.webm"
+  },
+  {
+    "id": "prolongation-d-emprunt",
+    "mot": "Prolongation d'emprunt",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/9e/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-prolongation_d%27emprunt.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-prolongation_d%27emprunt.webm"
+  },
+  {
+    "id": "promenade",
+    "mot": "Promenade",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/2/20/LL-Q33302_%28fsl%29-Laura_Jauvert-Promenade.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Promenade.webm"
+  },
+  {
+    "id": "proposer",
+    "mot": "Proposer",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/ca/LL-Q33302_%28fsl%29-Laura_Jauvert-Proposer.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Proposer.webm"
+  },
+  {
+    "id": "proteger",
+    "mot": "Protéger",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/30/LL-Q33302_%28fsl%29-Laura_Jauvert-Prot%C3%A9ger.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Prot%C3%A9ger.webm"
+  },
+  {
+    "id": "psychologue",
+    "mot": "Psychologue",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/cf/LL-Q33302_%28fsl%29-Laura_Jauvert-Psychologue.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Psychologue.webm"
+  },
+  {
+    "id": "public",
+    "mot": "Public",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/e6/LL-Q33302_%28fsl%29-Taliba31-public.webm",
+    "auteur": "Taliba31",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Taliba31-public.webm"
+  },
+  {
+    "id": "pullover",
+    "mot": "Pullover",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/55/LL-Q33302_%28fsl%29-Laura_Jauvert-Pullover.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pullover.webm"
+  },
+  {
+    "id": "quand",
+    "mot": "Quand",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/f9/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-quand.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-quand.webm"
+  },
+  {
+    "id": "qui",
+    "mot": "Qui",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/4/42/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-qui.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-qui.webm"
+  },
+  {
+    "id": "raconter",
+    "mot": "Raconter",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/8f/LL-Q33302_%28fsl%29-Laura_Jauvert-Raconter.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Raconter.webm"
+  },
+  {
+    "id": "rat",
+    "mot": "Rat",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/6d/LL-Q33302_%28fsl%29-Laura_Jauvert-Rat.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Rat.webm"
+  },
+  {
+    "id": "rayon-lieu",
+    "mot": "Rayon",
+    "note": "lieu",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/cc/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-rayon_%28lieu%29.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-rayon_(lieu).webm"
+  },
+  {
+    "id": "refuser",
+    "mot": "Refuser",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/9b/LL-Q33302_%28fsl%29-Laura_Jauvert-Refuser.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Refuser.webm"
+  },
+  {
+    "id": "regarder",
+    "mot": "Regarder",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/7c/LL-Q33302_%28fsl%29-Laura_Jauvert-Regarder.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Regarder.webm"
+  },
+  {
+    "id": "rembourser",
+    "mot": "Rembourser",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/2/22/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-rembourser.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-rembourser.webm"
+  },
+  {
+    "id": "rencontrer",
+    "mot": "Rencontrer",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/70/LL-Q33302_%28fsl%29-Laura_Jauvert-Rencontrer.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Rencontrer.webm"
+  },
+  {
+    "id": "rendez-vous",
+    "mot": "Rendez-vous",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/91/LL-Q33302_%28fsl%29-Laura_Jauvert-Rendez-vous.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Rendez-vous.webm"
+  },
+  {
+    "id": "repondre",
+    "mot": "Répondre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/c5/LL-Q33302_%28fsl%29-Laura_Jauvert-R%C3%A9pondre.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-R%C3%A9pondre.webm"
+  },
+  {
+    "id": "reportage",
+    "mot": "Reportage",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/1a/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-reportage.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-reportage.webm"
+  },
+  {
+    "id": "reservation",
+    "mot": "Réservation",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/ed/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-r%C3%A9servation.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-r%C3%A9servation.webm"
+  },
+  {
+    "id": "reserver",
+    "mot": "Réserver",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/fe/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-r%C3%A9server.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-r%C3%A9server.webm"
+  },
+  {
+    "id": "restaurant",
+    "mot": "Restaurant",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/ed/LL-Q33302_%28fsl%29-Laura_Jauvert-Restaurant.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Restaurant.webm"
+  },
+  {
+    "id": "rester",
+    "mot": "Rester",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/d8/LL-Q33302_%28fsl%29-Laura_Jauvert-Rester.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Rester.webm"
+  },
+  {
+    "id": "retard",
+    "mot": "Retard",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/2/28/LL-Q33302_%28fsl%29-Laura_Jauvert-Retard.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Retard.webm"
+  },
+  {
+    "id": "retour-des-documents",
+    "mot": "Retour des documents",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/0/02/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-retour_des_documents.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-retour_des_documents.webm"
+  },
+  {
+    "id": "reveur",
+    "mot": "Rêveur",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/98/LL-Q33302_%28fsl%29-Laura_Jauvert-R%C3%A9veur.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-R%C3%A9veur.webm"
+  },
+  {
+    "id": "reviser",
+    "mot": "Réviser",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/1f/LL-Q33302_%28fsl%29-Laura_Jauvert-R%C3%A9viser.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-R%C3%A9viser.webm"
+  },
+  {
+    "id": "rire",
+    "mot": "Rire",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/7a/LL-Q33302_%28fsl%29-Laura_Jauvert-Rire.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Rire.webm"
+  },
+  {
+    "id": "riviere",
+    "mot": "Rivière",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/a3/LL-Q33302_%28fsl%29-Laura_Jauvert-Rivi%C3%A8re.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Rivi%C3%A8re.webm"
+  },
+  {
+    "id": "riz",
+    "mot": "Riz",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/bb/LL-Q33302_%28fsl%29-Laura_Jauvert-Riz.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Riz.webm"
+  },
+  {
+    "id": "robe",
+    "mot": "Robe",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/3e/LL-Q33302_%28fsl%29-Laura_Jauvert-Robe.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Robe.webm"
+  },
+  {
+    "id": "role",
+    "mot": "Rôle",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/c5/LL-Q33302_%28fsl%29-Taliba31-r%C3%B4le.webm",
+    "auteur": "Taliba31",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Taliba31-r%C3%B4le.webm"
+  },
+  {
+    "id": "roller",
+    "mot": "Roller",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/2/21/LL-Q33302_%28fsl%29-Laura_Jauvert-Roller.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Roller.webm"
+  },
+  {
+    "id": "rose",
+    "mot": "Rose",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/37/LL-Q33302_%28fsl%29-Laura_Jauvert-Rose.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Rose.webm"
+  },
+  {
+    "id": "rouge",
+    "mot": "Rouge",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/2/2e/LL-Q33302_%28fsl%29-Laura_Jauvert-Rouge.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Rouge.webm"
+  },
+  {
+    "id": "rouler",
+    "mot": "Rouler",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/15/LL-Q33302_%28fsl%29-Laura_Jauvert-Rouler.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Rouler.webm"
+  },
+  {
+    "id": "route-nationale",
+    "mot": "Route nationale",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/ff/LL-Q33302_%28fsl%29-Laura_Jauvert-Route_nationale.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Route_nationale.webm"
+  },
+  {
+    "id": "roux",
+    "mot": "Roux",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/8c/LL-Q33302_%28fsl%29-Laura_Jauvert-Roux.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Roux.webm"
+  },
+  {
+    "id": "s-asseoir",
+    "mot": "S'asseoir",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/74/LL-Q33302_%28fsl%29-Laura_Jauvert-S%27asseoir.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-S%27asseoir.webm"
+  },
+  {
+    "id": "s-il-vous-plait",
+    "mot": "S'il vous plaît",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/57/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-s%27il_vous_plait.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-s%27il_vous_plait.webm"
+  },
+  {
+    "id": "sac-a-main",
+    "mot": "Sac à main",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/32/LL-Q33302_%28fsl%29-Laura_Jauvert-Sac_%C3%A0_main.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Sac_%C3%A0_main.webm"
+  },
+  {
+    "id": "saisons-de-l-annee",
+    "mot": "Saisons",
+    "note": "de l'année",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/88/LL-Q33302_%28fsl%29-Laura_Jauvert-Saisons_%28de_l%27ann%C3%A9e%29.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Saisons_(de_l%27ann%C3%A9e).webm"
+  },
+  {
+    "id": "salle",
+    "mot": "Salle",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/14/LL-Q33302_%28fsl%29-Laura_Jauvert-Salle.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Salle.webm"
+  },
+  {
+    "id": "salle-d-etude",
+    "mot": "Salle d'étude",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/8d/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-salle_d%27%C3%A9tude.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-salle_d%27%C3%A9tude.webm"
+  },
+  {
+    "id": "salle-du-conte",
+    "mot": "Salle du conte",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/ef/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-salle_du_conte.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-salle_du_conte.webm"
+  },
+  {
+    "id": "salut",
+    "mot": "Salut",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/94/LL-Q33302_%28fsl%29-Taliba31-salut.webm",
+    "auteur": "Taliba31",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Taliba31-salut.webm"
+  },
+  {
+    "id": "salut-arrivee",
+    "mot": "Salut",
+    "note": "arrivée",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/4/40/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-salut_%28arriv%C3%A9e%29.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-salut_(arriv%C3%A9e).webm"
+  },
+  {
+    "id": "salut-depart",
+    "mot": "Salut",
+    "note": "départ",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/10/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-salut_%28d%C3%A9part%29.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-salut_(d%C3%A9part).webm"
+  },
+  {
+    "id": "sandwich",
+    "mot": "Sandwich",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/db/LL-Q33302_%28fsl%29-Laura_Jauvert-Sandwich.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Sandwich.webm"
+  },
+  {
+    "id": "sanglier",
+    "mot": "Sanglier",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/db/LL-Q33302_%28fsl%29-Taliba31-sanglier.webm",
+    "auteur": "Taliba31",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Taliba31-sanglier.webm"
+  },
+  {
+    "id": "sans-interruption",
+    "mot": "Sans interruption",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/4/42/LL-Q33302_%28fsl%29-Laura_Jauvert-Sans_interruption.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Sans_interruption.webm"
+  },
+  {
+    "id": "saucisson",
+    "mot": "Saucisson",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/b2/LL-Q33302_%28fsl%29-Laura_Jauvert-Saucisson.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Saucisson.webm"
+  },
+  {
+    "id": "sauf",
+    "mot": "Sauf",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/eb/LL-Q33302_%28fsl%29-Laura_Jauvert-Sauf.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Sauf.webm"
+  },
+  {
+    "id": "science-fiction",
+    "mot": "Science-fiction",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/77/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-science-fiction.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-science-fiction.webm"
+  },
+  {
+    "id": "se-lever",
+    "mot": "Se lever",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/c5/LL-Q33302_%28fsl%29-Laura_Jauvert-Se_lever.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Se_lever.webm"
+  },
+  {
+    "id": "se-moquer",
+    "mot": "Se moquer",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/fb/LL-Q33302_%28fsl%29-Laura_Jauvert-Se_moquer.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Se_moquer.webm"
+  },
+  {
+    "id": "se-promener",
+    "mot": "Se promener",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/61/LL-Q33302_%28fsl%29-Laura_Jauvert-Se_promener.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Se_promener.webm"
+  },
+  {
+    "id": "se-rappeler",
+    "mot": "Se rappeler",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/5b/LL-Q33302_%28fsl%29-Laura_Jauvert-Se_rappeler.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Se_rappeler.webm"
+  },
+  {
+    "id": "se-reveiller",
+    "mot": "Se réveiller",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/64/LL-Q33302_%28fsl%29-Laura_Jauvert-Se_r%C3%A9veiller.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Se_r%C3%A9veiller.webm"
+  },
+  {
+    "id": "se-taire",
+    "mot": "Se taire",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/da/LL-Q33302_%28fsl%29-Laura_Jauvert-Se_taire.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Se_taire.webm"
+  },
+  {
+    "id": "section",
+    "mot": "Section",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/34/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-section.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-section.webm"
+  },
+  {
+    "id": "sens-direction",
+    "mot": "Sens",
+    "note": "direction",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/ea/LL-Q33302_%28fsl%29-Laura_Jauvert-Sens_%28direction%29.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Sens_(direction).webm"
+  },
+  {
+    "id": "serre",
+    "mot": "Serré",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/7c/LL-Q33302_%28fsl%29-Laura_Jauvert-Serr%C3%A9.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Serr%C3%A9.webm"
+  },
+  {
+    "id": "seule",
+    "mot": "Seul·e",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/4/4a/LL-Q33302_%28fsl%29-Laura_Jauvert-Seul%C2%B7e.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Seul%C2%B7e.webm"
+  },
+  {
+    "id": "short-vetement",
+    "mot": "Short",
+    "note": "vêtement",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/2/20/LL-Q33302_%28fsl%29-Laura_Jauvert-Short_%28v%C3%AAtement%29.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Short_(v%C3%AAtement).webm"
+  },
+  {
+    "id": "silence",
+    "mot": "Silence",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/83/LL-Q33302_%28fsl%29-Laura_Jauvert-Silence.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Silence.webm"
+  },
+  {
+    "id": "ski",
+    "mot": "Ski",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/2/23/LL-Q33302_%28fsl%29-Laura_Jauvert-Ski.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ski.webm"
+  },
+  {
+    "id": "snowboard",
+    "mot": "Snowboard",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/9b/LL-Q33302_%28fsl%29-Laura_Jauvert-Snowboard.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Snowboard.webm"
+  },
+  {
+    "id": "soeur",
+    "mot": "Soeur",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/3d/LL-Q33302_%28fsl%29-Laura_Jauvert-Soeur.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Soeur.webm"
+  },
+  {
+    "id": "soigner",
+    "mot": "Soigner",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/4/44/LL-Q33302_%28fsl%29-Laura_Jauvert-Soigner.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Soigner.webm"
+  },
+  {
+    "id": "soir",
+    "mot": "Soir",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/34/LL-Q33302_%28fsl%29-Laura_Jauvert-Soir.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Soir.webm"
+  },
+  {
+    "id": "soleil",
+    "mot": "Soleil",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/91/LL-Q33302_%28fsl%29-Laura_Jauvert-Soleil.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Soleil.webm"
+  },
+  {
+    "id": "son-sa-ses-leurs",
+    "mot": "Son, sa, ses, leurs",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/68/LL-Q33302_%28fsl%29-Laura_Jauvert-Son%2C_sa%2C_ses%2C_leurs.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Son,_sa,_ses,_leurs.webm"
+  },
+  {
+    "id": "sortie",
+    "mot": "Sortie",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/94/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-sortie.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-sortie.webm"
+  },
+  {
+    "id": "soucoupe-volante",
+    "mot": "Soucoupe volante",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/57/LL-Q33302_%28fsl%29-Laura_Jauvert-Soucoupe_volante.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Soucoupe_volante.webm"
+  },
+  {
+    "id": "sourd",
+    "mot": "Sourd",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/2/2c/LL-Q33302_%28fsl%29-Laura_Jauvert-Sourd.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Sourd.webm"
+  },
+  {
+    "id": "sourire",
+    "mot": "Sourire",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/83/LL-Q33302_%28fsl%29-Laura_Jauvert-Sourire.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Sourire.webm"
+  },
+  {
+    "id": "souris",
+    "mot": "Souris",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/1f/LL-Q33302_%28fsl%29-Laura_Jauvert-Souris.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Souris.webm"
+  },
+  {
+    "id": "sous-marin",
+    "mot": "Sous-marin",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/33/LL-Q33302_%28fsl%29-Laura_Jauvert-Sous-marin.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Sous-marin.webm"
+  },
+  {
+    "id": "souvent",
+    "mot": "Souvent",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/6f/LL-Q33302_%28fsl%29-Laura_Jauvert-Souvent.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Souvent.webm"
+  },
+  {
+    "id": "stage",
+    "mot": "Stage",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/eb/LL-Q33302_%28fsl%29-Laura_Jauvert-Stage.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Stage.webm"
+  },
+  {
+    "id": "stagiaire",
+    "mot": "Stagiaire",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/ad/LL-Q33302_%28fsl%29-Laura_Jauvert-Stagiaire.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Stagiaire.webm"
+  },
+  {
+    "id": "sucre",
+    "mot": "Sucre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/3f/LL-Q33302_%28fsl%29-Laura_Jauvert-Sucre.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Sucre.webm"
+  },
+  {
+    "id": "suivre",
+    "mot": "Suivre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/1/16/LL-Q33302_%28fsl%29-Laura_Jauvert-Suivre.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Suivre.webm"
+  },
+  {
+    "id": "super",
+    "mot": "Super",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/57/LL-Q33302_%28fsl%29-Laura_Jauvert-Super.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Super.webm"
+  },
+  {
+    "id": "sympathique",
+    "mot": "Sympathique",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/4/45/LL-Q33302_%28fsl%29-Laura_Jauvert-Sympathique.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Sympathique.webm"
+  },
+  {
+    "id": "tableau",
+    "mot": "Tableau",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/a3/LL-Q33302_%28fsl%29-Laura_Jauvert-Tableau.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Tableau.webm"
+  },
+  {
+    "id": "taille-mesure",
+    "mot": "Taille",
+    "note": "mesure",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/8e/LL-Q33302_%28fsl%29-Laura_Jauvert-Taille_%28mesure%29.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Taille_(mesure).webm"
+  },
+  {
+    "id": "tante",
+    "mot": "Tante",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/2/20/LL-Q33302_%28fsl%29-Laura_Jauvert-Tante.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Tante.webm"
+  },
+  {
+    "id": "tard",
+    "mot": "Tard",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/31/LL-Q33302_%28fsl%29-Laura_Jauvert-Tard.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Tard.webm"
+  },
+  {
+    "id": "tartine",
+    "mot": "Tartine",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/db/LL-Q33302_%28fsl%29-Laura_Jauvert-Tartine.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Tartine.webm"
+  },
+  {
+    "id": "taureau",
+    "mot": "Taureau",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/aa/LL-Q33302_%28fsl%29-Laura_Jauvert-Taureau.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Taureau.webm"
+  },
+  {
+    "id": "telephone",
+    "mot": "Téléphone",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/35/LL-Q33302_%28fsl%29-Laura_Jauvert-T%C3%A9l%C3%A9phone.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-T%C3%A9l%C3%A9phone.webm"
+  },
+  {
+    "id": "telephoner",
+    "mot": "Téléphoner",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/f7/LL-Q33302_%28fsl%29-Laura_Jauvert-T%C3%A9l%C3%A9phoner.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-T%C3%A9l%C3%A9phoner.webm"
+  },
+  {
+    "id": "television",
+    "mot": "Télévision",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/dd/LL-Q33302_%28fsl%29-Laura_Jauvert-T%C3%A9l%C3%A9vision.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-T%C3%A9l%C3%A9vision.webm"
+  },
+  {
+    "id": "tennis",
+    "mot": "Tennis",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/53/LL-Q33302_%28fsl%29-Laura_Jauvert-Tennis.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Tennis.webm"
+  },
+  {
+    "id": "terre",
+    "mot": "Terre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/53/LL-Q33302_%28fsl%29-Laura_Jauvert-Terre.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Terre.webm"
+  },
+  {
+    "id": "terrible",
+    "mot": "Terrible",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/7e/LL-Q33302_%28fsl%29-Laura_Jauvert-Terrible.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Terrible.webm"
+  },
+  {
+    "id": "tgv",
+    "mot": "TGV",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/d9/LL-Q33302_%28fsl%29-Laura_Jauvert-TGV.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-TGV.webm"
+  },
+  {
+    "id": "the",
+    "mot": "Thé",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/cb/LL-Q33302_%28fsl%29-Laura_Jauvert-Th%C3%A9.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Th%C3%A9.webm"
+  },
+  {
+    "id": "theatre",
+    "mot": "Théâtre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/a4/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-th%C3%A9%C3%A2tre.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-th%C3%A9%C3%A2tre.webm"
+  },
+  {
+    "id": "toi",
+    "mot": "Toi",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/f/ff/LL-Q33302_%28fsl%29-Laura_Jauvert-Toi.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Toi.webm"
+  },
+  {
+    "id": "toilettes",
+    "mot": "Toilettes",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/7b/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-toilettes.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-toilettes.webm"
+  },
+  {
+    "id": "tomber",
+    "mot": "Tomber",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/78/LL-Q33302_%28fsl%29-Laura_Jauvert-Tomber.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Tomber.webm"
+  },
+  {
+    "id": "tortue-de-mer",
+    "mot": "Tortue de mer",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/68/LL-Q33302_%28fsl%29-Laura_Jauvert-Tortue_de_mer.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Tortue_de_mer.webm"
+  },
+  {
+    "id": "tortue-de-terre",
+    "mot": "Tortue de terre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/b6/LL-Q33302_%28fsl%29-Laura_Jauvert-Tortue_de_terre.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Tortue_de_terre.webm"
+  },
+  {
+    "id": "tot",
+    "mot": "Tôt",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/5/5a/LL-Q33302_%28fsl%29-Laura_Jauvert-T%C3%B4t.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-T%C3%B4t.webm"
+  },
+  {
+    "id": "tous-les-quinze-jours",
+    "mot": "Tous les quinze jours",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/9d/LL-Q33302_%28fsl%29-Laura_Jauvert-Tous_les_quinze_jours.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Tous_les_quinze_jours.webm"
+  },
+  {
+    "id": "tout",
+    "mot": "Tout",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/3f/LL-Q33302_%28fsl%29-Laura_Jauvert-Tout.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Tout.webm"
+  },
+  {
+    "id": "tout-le-monde",
+    "mot": "Tout le monde",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/d/dc/LL-Q33302_%28fsl%29-Laura_Jauvert-Tout_le_monde.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Tout_le_monde.webm"
+  },
+  {
+    "id": "toute-la-nuit",
+    "mot": "Toute la nuit",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/cf/LL-Q33302_%28fsl%29-Laura_Jauvert-Toute_la_nuit.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Toute_la_nuit.webm"
+  },
+  {
+    "id": "train",
+    "mot": "Train",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/63/LL-Q33302_%28fsl%29-Laura_Jauvert-Train.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Train.webm"
+  },
+  {
+    "id": "travailler",
+    "mot": "Travailler",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/be/LL-Q33302_%28fsl%29-Laura_Jauvert-Travailler.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Travailler.webm"
+  },
+  {
+    "id": "tremblement-de-terre",
+    "mot": "Tremblement de terre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/0/0e/LL-Q33302_%28fsl%29-Laura_Jauvert-Tremblement_de_terre.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Tremblement_de_terre.webm"
+  },
+  {
+    "id": "triste",
+    "mot": "Triste",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/7f/LL-Q33302_%28fsl%29-Laura_Jauvert-Triste.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Triste.webm"
+  },
+  {
+    "id": "usine",
+    "mot": "Usine",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/2/20/LL-Q33302_%28fsl%29-Laura_Jauvert-Usine.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Usine.webm"
+  },
+  {
+    "id": "vacances",
+    "mot": "Vacances",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/60/LL-Q33302_%28fsl%29-Laura_Jauvert-Vacances.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Vacances.webm"
+  },
+  {
+    "id": "vache",
+    "mot": "Vache",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/89/LL-Q33302_%28fsl%29-Laura_Jauvert-Vache.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Vache.webm"
+  },
+  {
+    "id": "veau",
+    "mot": "Veau",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/e4/LL-Q33302_%28fsl%29-Laura_Jauvert-Veau.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Veau.webm"
+  },
+  {
+    "id": "vendre",
+    "mot": "Vendre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/e/e0/LL-Q33302_%28fsl%29-Laura_Jauvert-Vendre.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Vendre.webm"
+  },
+  {
+    "id": "venir",
+    "mot": "Venir",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/7/71/LL-Q33302_%28fsl%29-Laura_Jauvert-Venir.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Venir.webm"
+  },
+  {
+    "id": "vent",
+    "mot": "Vent",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/a/a1/LL-Q33302_%28fsl%29-Laura_Jauvert-Vent.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Vent.webm"
+  },
+  {
+    "id": "ver-de-terre",
+    "mot": "Ver de terre",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/3/33/LL-Q33302_%28fsl%29-Laura_Jauvert-Verre_de_terre.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Verre_de_terre.webm"
+  },
+  {
+    "id": "vert",
+    "mot": "Vert",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/4/44/LL-Q33302_%28fsl%29-Laura_Jauvert-Vert.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Vert.webm"
+  },
+  {
+    "id": "vetement",
+    "mot": "Vêtement",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/90/LL-Q33302_%28fsl%29-Laura_Jauvert-V%C3%AAtement.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-V%C3%AAtement.webm"
+  },
+  {
+    "id": "vieux",
+    "mot": "Vieux",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/c/c4/LL-Q33302_%28fsl%29-Laura_Jauvert-Vieu.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Vieu.webm"
+  },
+  {
+    "id": "village",
+    "mot": "Village",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/bc/LL-Q33302_%28fsl%29-Laura_Jauvert-Village.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Village.webm"
+  },
+  {
+    "id": "ville",
+    "mot": "Ville",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/4/48/LL-Q33302_%28fsl%29-Laura_Jauvert-Ville.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ville.webm"
+  },
+  {
+    "id": "violet",
+    "mot": "Violet",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/8c/LL-Q33302_%28fsl%29-Laura_Jauvert-Violet.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Violet.webm"
+  },
+  {
+    "id": "visuel",
+    "mot": "Visuel",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/8/81/LL-Q33302_%28fsl%29-Laura_Jauvert-Visuel.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Visuel.webm"
+  },
+  {
+    "id": "vitrolles",
+    "mot": "Vitrolles",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/2/29/LL-Q33302_%28fsl%29-Laura_Jauvert-Vitrolle.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Vitrolle.webm"
+  },
+  {
+    "id": "vocabulaire",
+    "mot": "Vocabulaire",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/9/94/LL-Q33302_%28fsl%29-Laura_Jauvert-Vocabulaire.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Vocabulaire.webm"
+  },
+  {
+    "id": "voler",
+    "mot": "Voler",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/b/bb/LL-Q33302_%28fsl%29-Laura_Jauvert-Voler.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Voler.webm"
+  },
+  {
+    "id": "wc",
+    "mot": "WC",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/6e/LL-Q33302_%28fsl%29-Hugo_en_r%C3%A9sidence-WC.webm",
+    "auteur": "Hugo en résidence",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Hugo_en_r%C3%A9sidence-WC.webm"
+  },
+  {
+    "id": "week-end",
+    "mot": "Week-end",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/2/2b/LL-Q33302_%28fsl%29-Laura_Jauvert-Week-end.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Week-end.webm"
+  },
+  {
+    "id": "zoo",
+    "mot": "Zoo",
+    "video": "https://upload.wikimedia.org/wikipedia/commons/6/63/LL-Q33302_%28fsl%29-Laura_Jauvert-Zoo.webm",
+    "auteur": "Jauvert Laura (montage : Edouard-lopez)",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Zoo.webm"
+  }
+]
